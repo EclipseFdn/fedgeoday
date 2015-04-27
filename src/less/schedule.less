@@ -124,17 +124,19 @@
   bottom:0;
   right:0;
   background:@brand-secondary;
-
   display:block;
   font-size:1.4em;
   height:35px;
   width:35px;
-  padding:3px 0px 0 5px;
-  color:@gray-lighter;
+  padding:0px 0px 0 5px;
   text-align: center;
+  &:link,
+  &:visited{
+    text-decoration:none;
+    color:@gray-lighter;
+  }
   &:hover,
   &:active{
-   text-decoration:none;
    color:#fff;
    background:@brand-primary;
   }
