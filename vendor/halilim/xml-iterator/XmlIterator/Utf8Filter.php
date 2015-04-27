@@ -3,7 +3,12 @@
  * @author Halil Özgür | halil · ozgur |o| gmail.com
  */
 
-namespace XmlIterator;
+/**
+ * The production server is using php 5.2
+ * and namespaces are not supported for this version of php.
+ */
+
+//namespace XmlIterator;
 
 class Utf8Filter extends \php_user_filter
 {

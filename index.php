@@ -13,18 +13,23 @@
 /**
  * Composer autoload file.
  */
- require 'vendor/autoload.php';
+require 'vendor/autoload.php';
  
  
 /** 
  * Define ABSPATH as this files directory 
  */
-define( 'ABSPATH', dirname(__FILE__) . '/' );
+define('ABSPATH', dirname(__FILE__) . '/');
 
 /** 
  * Load libraries.
+ * 
+ * The production server is using php 5.2
+ * and namespaces are not supported for this version of php.
  */
-use XmlIterator\XmlIterator;
+
+//use XmlIterator\XmlIterator;
+require_once 'vendor/halilim/xml-iterator/XmlIterator/XmlIterator.php';
 
 /**
  * Load configurations.
