@@ -11,58 +11,46 @@
  *******************************************************************************/
 
 /**
- * Composer autoload file.
+ * Helper function for parsing XML files.
  */
-//require 'vendor/autoload.php';
- 
- 
+function _loadxml($path = NULL) {
+  if (!is_readable($path)) {
+    return FALSE;
+  }
+  $xml = simplexml_load_file($path, 'SimpleXMLElement', LIBXML_NOCDATA);
+  return json_decode(json_encode($xml), TRUE);
+}
+
 /** 
  * Define ABSPATH as this files directory 
  */
 define('ABSPATH', dirname(__FILE__) . '/');
 
-/** 
- * Load libraries.
- * 
- * The production server is using php 5.2
- * and namespaces are not supported for this version of php.
- */
-
-//use XmlIterator\XmlIterator;
-require_once 'vendor/halilim/xml-iterator/XmlIterator/XmlIterator.php';
-
 /**
  * Load configurations.
  */
-$it_event = new XmlIterator("xml/event.xml", "event");
-foreach ($it_event as $c){
-  $config = $c;
-}
+$config = _loadxml('xml/event.xml');
 
 /**
  * Load sponsors.
  */
-$it_sponsors = new XmlIterator("xml/sponsors.xml", "sponsor");
-$sponsors = array();
-foreach ($it_sponsors as $sponsor){
-  $sponsors[] = $sponsor;
-}
+$sponsors = _loadxml('xml/sponsors.xml');
 shuffle($sponsors);
 
 /**
  * Load schedule.
  */
-$it_schedule = new XmlIterator("xml/schedule.xml", "session");
-$it_rooms = new XmlIterator("xml/rooms.xml", "room");
+$xml_schedule = _loadxml('xml/schedule.xml');
+$xml_rooms = _loadxml('xml/rooms.xml');
 
 $rooms = array();
-foreach ($it_rooms as $room){
+foreach ($xml_rooms['room'] as $room){
   $id = $room['room_id'];
   $rooms[$id] = $room;
 }
 
 $sessions = array();
-foreach ($it_schedule as $session){
+foreach ($xml_schedule['session'] as $session){
   $room_data = array(
     'room_id' => $session['room_id'],
     'title' => $session['room_id'],
