@@ -1,0 +1,12 @@
+{
+    "name": "eclipsefnd/fedgeoday",
+    "require": {
+        "halilim/xml-iterator": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Christopher Guindon",
+            "email": "chris.guindon@eclipse.org"
+        }
+    ]
+}

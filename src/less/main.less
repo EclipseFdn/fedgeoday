@@ -1,0 +1,69 @@
+//
+// Styles
+//
+// Author: Christopher Guindon - Eclipse Foundation
+// ----------------------------------------------------
+
+@import './bower_components/bootstrap/less/bootstrap.less';
+@import './bower_components/fontawesome/less/font-awesome.less';
+@import '_variables.less';
+@import 'about.less';
+@import 'footer.less';
+@import 'menu.less';
+@import 'price_box.less';
+@import 'register.less';
+@import 'schedule.less';
+@import 'sponsors.less';
+@import 'type.less';
+
+body {
+  position: relative;
+  padding-top:78px;
+  
+}
+
+.bg-primary{
+  background:@brand-primary;
+}
+
+.bg-secondary{
+  background:@brand-secondary;
+}
+
+.top-offset{
+  @media (min-width: @screen-md-min) {
+    margin-top:-50px;
+  }
+}
+
+.top-offset-sm{
+  margin-top:-20px;
+}
+
+.section{
+  position:relative;
+  &:before { 
+    display: block; 
+    content: " "; 
+    margin-top: -80px; 
+    height: 80px; 
+    visibility: hidden; 
+  }
+}
+
+.rotated {
+  transform: rotate(180deg);
+  -ms-transform: rotate(180deg); /* IE 9 */
+  -moz-transform: rotate(180deg); /* Firefox */
+  -webkit-transform: rotate(180deg); /* Safari and Chrome */
+  -o-transform: rotate(180deg); /* Opera */
+}
+@media (min-width: @screen-md-min) {
+  .content-left{
+    padding-right:15px;
+  }
+
+  .content-right{
+    padding-left:15px;
+  }
+}

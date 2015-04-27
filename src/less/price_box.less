@@ -1,0 +1,71 @@
+//
+// Price box
+//
+// Author: Christopher Guindon - Eclipse Foundation
+// --------------------------------------------------
+
+.price-badge{
+  border:1px solid #dbdbdb;
+  background:#f5f4f4;
+  margin-bottom:1em;
+  font-size: 0.8em;
+  h3{
+    font-size:1.6em;
+  }
+}
+
+.price-badge-odd{
+  .arrow_box{
+    &:after {
+      left:100%;
+      border-right-color: transparent;
+      border-left-color: #d1a42b;
+    }
+  }
+}
+
+.arrow_box {
+  position: relative;
+  background: #d1a42b;
+  color:#fff;
+  font-size:1.5em;
+  padding:1em 0;
+  text-align: center;
+  .price{
+ 
+    clear:both;
+    display:block;
+  }
+}
+@media (min-width: @screen-sm-min) {
+  .arrow_box{
+    .price{
+      font-size:2em;
+    }
+    &:after {
+      right: 100%;
+      top: 50%;
+      border: solid transparent;
+      content: " ";
+      height: 0;
+      width: 0;
+      position: absolute;
+      pointer-events: none;
+      border-color: rgba(209, 164, 43, 0);
+      border-right-color: #d1a42b;
+      border-width: 10px;
+      margin-top: -10px;
+    }
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+  .price-badge-odd{
+    .content-box{
+      float:right;
+    }
+    .arrow_box{
+      float:left;
+    }
+  }
+}

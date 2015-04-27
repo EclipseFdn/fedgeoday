@@ -1,0 +1,22 @@
+{
+  "name": "fedgeoday",
+  "version": "0.0.1",
+  "authors": [
+    "Christopher Guindon <chris.guindon@eclipse.org>"
+  ],
+  "description": "Fedgeoday website.",
+  "license": "EPL",
+  "homepage": "http://www.chrisguindon.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "3.3.1",
+    "fontawesome": "4.2.0"
+  }
+}

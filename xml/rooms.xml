@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+  <room>
+    <room_id>1</room_id>
+    <title>Room A</title>
+    <color>#d1a42b</color>
+  </room>
+  <room>
+    <room_id>2</room_id>
+    <title>Room B</title>
+    <color>#415976</color>
+  </room>
+</rooms>

@@ -1,0 +1,47 @@
+//
+// Menu
+//
+// Author: Christopher Guindon - Eclipse Foundation
+// --------------------------------------------------
+
+.navbar-brand{
+  height: auto;
+}
+
+.nav{
+  font-family:@font-family-sans-serif;
+}
+
+#navbar .nav{
+  padding-top:15px;
+}
+
+#navbar{
+  @media (min-width: @screen-sm-min) { 
+    padding-top:15px;
+  }
+    @media (max-width: @screen-xs-max) {
+      background:#333;
+    }
+  .nav{
+    padding-top:0;
+  }
+}
+
+#main-menu{
+  margin-bottom:0;
+  background:#25393d;
+  a{
+   
+    &:hover, &:active{
+      background:none;
+      color:@brand-primary;
+    }
+  }
+}
+
+.navbar-toggle{
+  border-color:#cfd1d2;
+  background:#d1a42b;
+  margin-top:21px;
+}

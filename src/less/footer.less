@@ -1,0 +1,56 @@
+//
+// Footer
+//
+// Author: Christopher Guindon - Eclipse Foundation
+// --------------------------------------------------
+
+#page-footer{
+  font-size:0.9em;
+  background:#3d647c;
+  color:#e3e3e3;
+  font-family:@font-family-sans-serif;
+  padding:35px 0 35px 0;
+  font-weight:300;
+  .nav{
+    padding-bottom:30px;
+    a{
+      color:#e3e3e3;
+      padding-top:0;
+      padding-bottom:0;
+      &:hover{
+        background:none;
+        text-decoration: underline;
+        color:@brand-primary;
+      }
+    }
+  }
+}
+@media (min-width: @screen-md-min) {
+  #footer-left{
+    text-align: right;
+  }
+}
+@media (max-width: @screen-sm-max) {
+  .navbar-right{
+    float:none !important;
+    margin:0;
+  }
+}
+#footer-right{
+  border-left:1px solid #5084a4;
+  background: url("../images/footer-arrow.jpg") no-repeat 0 6px;
+}
+
+#footer-logo{
+  padding-bottom:6px;
+}
+
+#copyright-text{
+  font-size:0.8em;
+}
+
+#footer-info{
+  clear:both;
+  font-size:0.8em;
+  padding-bottom:20px;
+}

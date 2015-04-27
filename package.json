@@ -1,0 +1,17 @@
+{
+  "name": "fedgeoday",
+  "version": "0.0.1",
+  "description": "Fedgeoday website.",
+  "main": "Gruntfile.js",
+  "author": "Christopher Guindon",
+  "license": "EPL",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt-cli": "latest",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
