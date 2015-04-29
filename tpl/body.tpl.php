@@ -128,11 +128,11 @@ if (!defined('ABSPATH')) exit;
       <div class="content-left">
         <h2>Sponsorship Prices</h2>
         <div class="price-badge clearfix">
-          Members receive a discount.<div class="content-box col-sm-8"><h3>Sponsor the conference</h3><p>.</p></div>
+          <div class="content-box col-sm-8"><h3>Sponsor the conference as a member</h3><p>Members pay a discounted price.</p></div>
           <div class="arrow_box col-sm-4"><span class="price">$2000</span>Members</div>
         </div>
         <div class="price-badge clearfix price-badge-odd">
-          <div class="content-box col-sm-8"><h3>Non-Members</h3><p>Non-Members pay the full sponsorship price.</p></div>
+          <div class="content-box col-sm-8"><h3>Sponsor the conference as a non-members</h3><p>Non-Members pay the full sponsorship price.</p></div>
           <div class="arrow_box col-sm-4"><span class="price">$4,500</span> Full price</div>
           
         </div>
