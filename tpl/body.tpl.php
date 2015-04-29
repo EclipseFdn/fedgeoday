@@ -127,19 +127,19 @@ if (!defined('ABSPATH')) exit;
     <div class="col-md-6">
       <div class="content-left">
         <h2>Sponsorship Prices</h2>
-        <p>Sponsorship is available for single events, or the entire tour.</p>
+        <p>Sponsor the event.</p>
         <div class="price-badge clearfix">
-          <div class="content-box col-sm-8"><h3>Evening only events</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
-          <div class="arrow_box col-sm-4"><span class="price">$250</span> Single event</div>
+          <div class="content-box col-sm-8"><h3>Member Pricing</h3><p>Members receive a healthy discount.</p></div>
+          <div class="arrow_box col-sm-4"><span class="price">$2000</span>Discounted</div>
         </div>
         <div class="price-badge clearfix price-badge-odd">
-          <div class="content-box col-sm-8"><h3>Evening only events</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
-          <div class="arrow_box col-sm-4"><span class="price">$500</span> Full day events</div>
+          <div class="content-box col-sm-8"><h3>Everyone else</h3><p>Full price.</p></div>
+          <div class="arrow_box col-sm-4"><span class="price">$4,500</span> Full price</div>
           
         </div>
         <div class="price-badge clearfix">
-          <div class="content-box col-sm-8"><h3>Sponsor ALL events in the tour</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
-          <div class="arrow_box col-sm-4"><span class="price">$2000</span> Single event</div>
+          <div class="content-box col-sm-8"><h3>Tour AND FedGeoDay</h3><p>Support both FedGeoDay and the Tour, and recieve further discounts on each!</p></div>
+          <div class="arrow_box col-sm-4"><span class="price">$2000</span>Tour + FedGeoDay</div>
         </div>
       </div>
     </div>
