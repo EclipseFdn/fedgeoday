@@ -81,7 +81,7 @@ if (!defined('ABSPATH')) exit;
   <div class="schedule-bg">
     <div class="container">
       <div class="row">
-        <h2 class="heading bg-secondary pull-left">Event Schedule</h2>
+        <h2 class="heading bg-secondary pull-left">Schedule</h2>
         <?php if ($config['schedule']) :?>
           <div class="timeline clearfix">
             <?php foreach($sessions as $session) :?>

@@ -15,6 +15,6 @@ if (!defined('ABSPATH')) exit;
 <ul class="nav navbar-nav navbar-right">
   <li><a href="#about">About</a></li>
   <li><a href="#registration">Register</a></li>
-  <li><a href="#schedule">Event Schedule</a></li>
+  <li><a href="#schedule">Schedule</a></li>
   <li><a href="#sponsorship">Sponsorship</a></li>
 </ul>
