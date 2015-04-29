@@ -137,7 +137,7 @@ if (!defined('ABSPATH')) exit;
           
         </div>
         <div class="price-badge clearfix">
-          <div class="content-box col-sm-8"><h3>Tour AND FedGeoDay</h3><p>Support both FedGeoDay and the global tour, and receive further discounts on each!</p></div>
+          <div class="content-box col-sm-8"><h3>Tour AND FedGeoDay</h3><p>Support both FedGeoDay and the <a href="http://tour.locationtech.org">Global Tour</a>, and receive further discounts on each!</p></div>
           <div class="arrow_box col-sm-4"><span class="price">$3200</span>Starting at.</div>
         </div>
       </div>
