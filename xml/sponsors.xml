@@ -5,4 +5,9 @@
     <title>Azavea</title>
     <url>https://www.azavea.com/</url>
   </sponsor>
+  <sponsor>
+    <src>images/sponsors/boundless.png</src>
+    <title>Boundless</title>
+    <url>https://www.boundlessgeo.com/</url>
+  </sponsor>
 </sponsors>
