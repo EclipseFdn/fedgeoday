@@ -129,7 +129,7 @@ if (!defined('ABSPATH')) exit;
         <h2>Sponsorship Prices</h2>
         <div class="price-badge clearfix">
           <div class="content-box col-sm-8"><h3>Sponsor the conference as a member</h3></div>
-          <div class="arrow_box col-sm-4"><span class="price">$2000</span>Member Discount</div>
+          <div class="arrow_box col-sm-4"><span class="price">$2000</span>Member Discounted price</div>
         </div>
         <div class="price-badge clearfix price-badge-odd">
           <div class="content-box col-sm-8"><h3>Sponsor the conference as a non-member</h3><p><a href="https://locationtech.org/content/become-member">Become a member</a></p></div>
