@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sponsors>
   <sponsor>
-    <src>images/sponsors/azavea.png</src>
-    <title>Azavea</title>
-    <url>https://www.azavea.com/</url>
-  </sponsor>
-  <sponsor>
-    <src>images/sponsors/boundless.png</src>
-    <title>Boundless</title>
-    <url>https://www.boundlessgeo.com/</url>
+    <src>images/sponsors/eclipse.png</src>
+    <title>Eclipse Foundation</title>
+    <url>https://www.eclipse.org/</url>
   </sponsor>
 </sponsors>
