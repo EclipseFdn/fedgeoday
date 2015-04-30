@@ -159,7 +159,7 @@ if (!defined('ABSPATH')) exit;
         </div>
         <div class="row">
           <ul class="list-inline sponsor-list">
-            <?php foreach ($sponsors as $sponsor) :?>
+            <?php foreach ($sponsors[0] as $sponsor) :?>
               <li>
                 <a href="<?php print $sponsor['url'];?>" target="_blank">
                   <img src="<?php print $sponsor['src']?>" alt="<?php print $sponsor['title']?>" class="img-responsive"/>
