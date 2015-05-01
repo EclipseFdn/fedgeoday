@@ -127,6 +127,7 @@ if (!defined('ABSPATH')) exit;
     <div class="col-md-6">
       <div class="content-left">
         <h2>Sponsorship Prices</h2>
+        <h3><a href="http://fedgeoday.org/2015/assets/FedGeoDay_sponsor_agreement_2015.pdf">Sponsor Agreement</a></h3>
         <div class="price-badge clearfix">
           <div class="content-box col-sm-8"><h3>Sponsor the conference as a member</h3></div>
           <div class="arrow_box col-sm-4"><span class="price">$2000</span>Member Discounted price</div>
