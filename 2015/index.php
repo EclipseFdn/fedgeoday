@@ -17,8 +17,7 @@ function _loadxml($path = NULL) {
   if (!is_readable($path)) {
     return FALSE;
   }
-  $xml = simplexml_load_file($path, 'SimpleXMLElement', LIBXML_NOCDATA);
-  return json_decode(json_encode($xml), TRUE);
+  return simplexml_load_file($path, 'SimpleXMLElement', LIBXML_NOCDATA);
 }
 
 /** 
@@ -29,12 +28,20 @@ define('ABSPATH', dirname(__FILE__) . '/');
 /**
  * Load configurations.
  */
-$config = _loadxml('xml/event.xml');
+$config = json_decode(json_encode(_loadxml('xml/event.xml')), TRUE);
 
 /**
  * Load sponsors.
  */
-$sponsors = _loadxml('xml/sponsors.xml');
+$xml_sponsors = _loadxml('xml/sponsors.xml');
+$sponsors = array();
+foreach ($xml_sponsors as $sp) {
+  $sponsors[] = array(
+    'src' => $sp->src,
+    'title' => $sp->title,
+    'url' => $sp->url,
+  );
+}
 shuffle($sponsors);
 
 /**
@@ -44,23 +51,36 @@ $xml_schedule = _loadxml('xml/schedule.xml');
 $xml_rooms = _loadxml('xml/rooms.xml');
 
 $rooms = array();
-foreach ($xml_rooms['room'] as $room){
-  $id = $room['room_id'];
-  $rooms[$id] = $room;
+foreach ($xml_rooms as $room){
+  $id = (int)$room->room_id;
+  $rooms[$id] = array(
+    'room_id' => $room->room_id,
+    'color' => $room->color,
+    'title' => $room->title,
+  );
 }
 
 $sessions = array();
-foreach ($xml_schedule['session'] as $session){
+foreach ($xml_schedule as $session) {
+  $id = (int)$session->room_id;
   $room_data = array(
-    'room_id' => $session['room_id'],
-    'title' => $session['room_id'],
+    'room_id' => $session->room_id,
+    'title' => $session->room_id,
     'color' => '#777',
   );
-  if (isset($rooms[$session['room_id']])) {
-    $room_data = $rooms[$session['room_id']];
+
+  if (isset($rooms[$id])) {
+    $room_data = $rooms[$id];
   }
-  $session['room_data'] = $room_data;
-  $sessions[] = $session;
+
+  $sessions[] = array(
+    'time' => $session->titme,
+    'room_id' => $session->room_id,
+    'title'  => $session->title,
+    'teaser' => $session->teaser,
+    'body' => $session->body,
+    'room_data' => $room_data
+  );
 }
 
 /**
