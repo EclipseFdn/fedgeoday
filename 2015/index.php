@@ -18,7 +18,6 @@ function _loadxml($path = NULL) {
     return FALSE;
   }
   return simplexml_load_file($path, 'SimpleXMLElement', LIBXML_NOCDATA);
-  return json_decode(json_encode($xml), TRUE);
 }
 
 /** 
