@@ -15,4 +15,4 @@
  */
 define('ABSPATH', dirname(__FILE__) . '/2015/');
 
-require_once '../tpl/bootsrap.inc.php';
+require_once '../tpl/bootstrap.inc.php';
