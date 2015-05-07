@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) exit;
       <div id="footer-left" class="col-md-8">
         <div class="content-left">
           <div  class="clearfix">
-            <?php include 'tpl/menu.tpl.php';?>
+            <?php include 'menu.tpl.php';?>
           </div>
           <p>
             <a href="./"><img id="footer-logo" src="images/logo_footer.jpg" alt="<?php print $config['pagetitle'];?>"/>

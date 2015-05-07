@@ -86,6 +86,6 @@ foreach ($xml_schedule as $session) {
 /**
  * Load template files.
  */
-require_once 'tpl/head.tpl.php';
-require_once 'tpl/body.tpl.php';
-require_once 'tpl/footer.tpl.php';
+require_once '../tpl/head.tpl.php';
+require_once '../tpl/body.tpl.php';
+require_once '../tpl/footer.tpl.php';

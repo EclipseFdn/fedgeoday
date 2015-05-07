@@ -27,7 +27,7 @@ if (!defined('ABSPATH')) exit;
         </a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
-        <?php include 'tpl/menu.tpl.php';?>  
+        <?php include 'menu.tpl.php';?>  
       </div><!--/.navbar-collapse -->
     </div>
   </nav>

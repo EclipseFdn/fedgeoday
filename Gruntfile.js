@@ -31,7 +31,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     // compiling styles.less into styles.css
-                    './2015/css/main.min.css': './2015/src/less/main.less'
+                    './2015/css/main.min.css': './src/less/main.less'
                 }
             }
         },
@@ -43,8 +43,8 @@ module.exports = function(grunt) {
                 src: [
                       './bower_components/jquery/dist/jquery.js',
                       './bower_components/bootstrap/dist/js/bootstrap.min.js',
-                      './2015/src/js/plugins.js', 
-                      './2015/src/js/main.js'
+                      './src/js/plugins.js', 
+                      './src/js/main.js'
                       ],
                 dest: './2015/js/main.js',
             },
@@ -66,15 +66,15 @@ module.exports = function(grunt) {
                 files: [
                 // watched files
                 './bower_components/bootstrap/dist/js/bootstrap.js', 
-                './2015/src/js/main.js',
-                './2015/src/js/plugins.js',
+                './src/js/main.js',
+                './src/js/plugins.js',
                 ],
                 // tasks to run
                 tasks: ['concat:js_frontend', 'uglify:frontend'],
             },
             less: {
-                files: ['./2015/src/less/*.less', 
-                        './2015/src/less/**/*.less'
+                files: ['./src/less/*.less', 
+                        './src/less/**/*.less'
                         ],
                 // watched files
                 tasks: ['less'],
