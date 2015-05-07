@@ -68,7 +68,8 @@ if (!defined('ABSPATH')) exit;
           <div class="box top-offset">
             <h2 class="heading bg-primary">Registration</h2>
             <div class="content">
-               <iframe id="iframe-event" src="<?php print $config['eventbrite'];?>"></iframe>
+              <p>Text goes here...</p>
+              <p><a href="<?php print $config['registration_link']?>" class="btn btn-secondary">Register Now</a></p>
             </div>
           </div>
         </div>
