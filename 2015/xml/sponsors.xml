@@ -6,16 +6,16 @@
     <url>https://www.azavea.com/</url>
   </sponsor>
   <sponsor>
-    <src>images/sponsors/boundless.png</src>
-    <title>Boundless</title>
-    <url>https://www.boundlessgeo.com/</url>
-  </sponsor>
-  <sponsor>
     <src>images/sponsors/cartodb.png</src>
     <title>CartoDB</title>
     <url>https://www.cartodb.com/</url>
   </sponsor>
 <!--
+  <sponsor>
+    <src>images/sponsors/boundless.png</src>
+    <title>Boundless</title>
+    <url>https://www.boundlessgeo.com/</url>
+  </sponsor>
   <sponsor>
     <src>images/sponsors/mapbox.png</src>
     <title>Mapbox</title>
