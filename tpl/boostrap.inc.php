@@ -41,6 +41,20 @@ foreach ($xml_sponsors as $sp) {
 shuffle($sponsors);
 
 /**
+ * Load sponsorship information.
+ */
+$xml_sponsorship = _loadxml('xml/sponsorship.xml');
+$sponsorship = array();
+foreach ($xml_sponsorship as $sp) {
+  $sponsorship[] = array(
+    'price' => $sp->price,
+    'price_text' => $sp->price_text,
+    'title' => $sp->title,
+    'body' => $sp->body,
+  );
+}
+
+/**
  * Load schedule.
  */
 $xml_schedule = _loadxml('xml/schedule.xml');

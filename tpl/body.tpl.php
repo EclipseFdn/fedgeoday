@@ -35,13 +35,13 @@ if (!defined('ABSPATH')) exit;
     <div class="container">
       <div class="row">
         <div class="col-xs-12 col-sm-6">
-          <h1 class="heading bg-primary pull-left">FedGeo Day Conference</h1>
+          <h1 class="heading bg-primary pull-left"><?php print $config['conferencetitle'];?></h1>
           <h2 class="heading bg-secondary pull-left"><?php print $config['date'];?></h2>
-          <h2 class="heading bg-secondary pull-left">Washington DC</h2>
+          <h2 class="heading bg-secondary pull-left"><?php print $config['location'];?></h2>
         </div>
         <div class="col-xs-12 col-sm-6">
           <ul class="list-geo">
-            <li>The conference for <span>open source geo applications</span> in the federal government.</li>
+            <li><?php print $config['teaser'];?></li>
           </ul>
         </div>
       </div>
@@ -54,13 +54,8 @@ if (!defined('ABSPATH')) exit;
     <div class="row">
       <div class="col-md-6" id="register-about">
         <div class="content-left">
-          <h2>Modern Tools for GIS, Geo Data &amp; Cartography</h2>
-          <p><strong>Open source applications</strong> are changing GIS, cartography, web mapping, 
-          and map publishing, throwing open the door of what's possible in geo. 
-          This <strong>one day conference</strong> will introduce you to these tools, 
-          show you what you can do with them, and walk through how and 
-          why government agencies are using them to dramatically 
-          improve their mapping, cartography, and GIS projects.</p>
+          <h2><?php print $config['registration_title'];?></h2>
+          <?php print $config['registration_body'];?>
         </div>
       </div>
       <div class="col-md-6" id="register-box">
@@ -128,25 +123,26 @@ if (!defined('ABSPATH')) exit;
     <div class="col-md-6">
       <div class="content-left">
         <h2>Sponsorship Prices</h2>
-        <h3><a href="http://fedgeoday.org/2015/assets/FedGeoDay_sponsor_agreement_2015.pdf">Sponsor Agreement</a></h3>
-        <div class="price-badge clearfix">
-          <div class="content-box col-sm-8"><h3>Sponsor the conference as a member</h3></div>
-          <div class="arrow_box col-sm-4"><span class="price">$2000</span>Member Discounted price</div>
-        </div>
-        <div class="price-badge clearfix price-badge-odd">
-          <div class="content-box col-sm-8"><h3>Sponsor the conference as a non-member</h3><p><a href="https://locationtech.org/content/become-member">Become a member</a></p></div>
-          <div class="arrow_box col-sm-4"><span class="price">$4,500</span> Full price</div>
-          
-        </div>
-        <div class="price-badge clearfix">
-          <div class="content-box col-sm-8"><h3>Tour AND FedGeoDay</h3><p>Support both FedGeoDay and the <a href="http://tour.locationtech.org">Global Tour</a>, and receive further discounts on each!</p></div>
-          <div class="arrow_box col-sm-4"><span class="price">$3200</span>Starting at.</div>
-        </div>
+        <?php foreach ($sponsorship as $sp): ?>
+          <?php $class = (isset($class) && $class == 'price-badge-even') ? 'price-badge-odd' : 'price-badge-even'; ?>
+          <div class="price-badge clearfix <?php print $class;?>">
+            <div class="content-box col-sm-8">
+              <h3><?php print $sp['title'];?></h3>
+              <p><?php print $sp['body'];?></p>
+            </div>
+            <div class="arrow_box col-sm-4">
+              <span class="price"><?php print $sp['price'];?></span>
+              <?php print $sp['price_text'];?>
+            </div>
+          </div>
+        <?php endforeach;?>
+        <p><?php print $config['sponsorship_link']?></p>
+        <br/>
       </div>
     </div>
     <div class="col-md-6">
       <div class="content-right text-center">
-        <a class="twitter-timeline" href="https://twitter.com/hashtag/fedgeo2015" data-widget-id="590171817974726657">#fedgeo2015 Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+        <?php print $config['twitter_link'];?>
       </div>
     </div>
   </div>

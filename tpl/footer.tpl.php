@@ -32,7 +32,6 @@ if (!defined('ABSPATH')) exit;
             <a class="twitter-follow-button" href="https://twitter.com/fedgeoday" data-show-count="false" data-lang="en">
               Follow @twitterdev
             </a>
-            <script>window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return t;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));</script>
           </p>
         </div>
       </div>
@@ -50,6 +49,8 @@ if (!defined('ABSPATH')) exit;
 </footer>
 
 <script src="../js/main.js"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+
 <!-- Google Analytics -->
 <script>
   (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
