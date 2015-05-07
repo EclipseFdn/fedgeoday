@@ -30,7 +30,7 @@ if (!defined('ABSPATH')) exit;
           </p>
           <p>
             <a class="twitter-follow-button" href="https://twitter.com/fedgeoday" data-show-count="false" data-lang="en">
-              Follow @twitterdev
+              #fedgeoday
             </a>
           </p>
         </div>
