@@ -10,82 +10,9 @@
  *    Christopher Guindon (Eclipse Foundation) - Initial implementation
  *******************************************************************************/
 
-/**
- * Helper function for parsing XML files.
- */
-function _loadxml($path = NULL) {
-  if (!is_readable($path)) {
-    return FALSE;
-  }
-  return simplexml_load_file($path, 'SimpleXMLElement', LIBXML_NOCDATA);
-}
-
 /** 
  * Define ABSPATH as this files directory 
  */
-define('ABSPATH', dirname(__FILE__) . '/');
+define('ABSPATH', dirname(__FILE__) . '/2015/');
 
-/**
- * Load configurations.
- */
-$config = json_decode(json_encode(_loadxml('xml/event.xml')), TRUE);
-
-/**
- * Load sponsors.
- */
-$xml_sponsors = _loadxml('xml/sponsors.xml');
-$sponsors = array();
-foreach ($xml_sponsors as $sp) {
-  $sponsors[] = array(
-    'src' => $sp->src,
-    'title' => $sp->title,
-    'url' => $sp->url,
-  );
-}
-shuffle($sponsors);
-
-/**
- * Load schedule.
- */
-$xml_schedule = _loadxml('xml/schedule.xml');
-$xml_rooms = _loadxml('xml/rooms.xml');
-
-$rooms = array();
-foreach ($xml_rooms as $room){
-  $id = (int)$room->room_id;
-  $rooms[$id] = array(
-    'room_id' => $room->room_id,
-    'color' => $room->color,
-    'title' => $room->title,
-  );
-}
-
-$sessions = array();
-foreach ($xml_schedule as $session) {
-  $id = (int)$session->room_id;
-  $room_data = array(
-    'room_id' => $session->room_id,
-    'title' => $session->room_id,
-    'color' => '#777',
-  );
-
-  if (isset($rooms[$id])) {
-    $room_data = $rooms[$id];
-  }
-
-  $sessions[] = array(
-    'time' => $session->titme,
-    'room_id' => $session->room_id,
-    'title'  => $session->title,
-    'teaser' => $session->teaser,
-    'body' => $session->body,
-    'room_data' => $room_data
-  );
-}
-
-/**
- * Load template files.
- */
-require_once '../tpl/head.tpl.php';
-require_once '../tpl/body.tpl.php';
-require_once '../tpl/footer.tpl.php';
+require_once '../tpl/boostrap.inc.php';

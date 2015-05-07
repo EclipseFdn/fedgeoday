@@ -22,7 +22,7 @@ if (!defined('ABSPATH')) exit;
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="./"><img src="images/logo.png" alt="><?php print $config['pagetitle'];?>"/>
+        <a class="navbar-brand" href="./"><img src="../images/logo.png" alt="><?php print $config['pagetitle'];?>"/>
           <span class="sr-only"><?php print $config['pagetitle'];?></span>
         </a>
       </div>
@@ -112,7 +112,7 @@ if (!defined('ABSPATH')) exit;
           </div>
           <p class="text-center">
             <a href="#" id="btn-schedule-toggle"><span>View More</span>
-              <img src="images/btn-view-more.jpg">
+              <img src="../images/btn-view-more.jpg">
             </a>
           </p>
         <?php else:?>

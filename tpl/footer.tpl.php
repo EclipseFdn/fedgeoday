@@ -24,7 +24,7 @@ if (!defined('ABSPATH')) exit;
             <?php include 'menu.tpl.php';?>
           </div>
           <p>
-            <a href="./"><img id="footer-logo" src="images/logo_footer.jpg" alt="<?php print $config['pagetitle'];?>"/>
+            <a href="./"><img id="footer-logo" src="../images/logo_footer.jpg" alt="<?php print $config['pagetitle'];?>"/>
             <span class="sr-only"><?php print $config['pagetitle'];?></span>
              </a>
           </p>
@@ -49,7 +49,7 @@ if (!defined('ABSPATH')) exit;
   </div>
 </footer>
 
-<script src="js/main.js"></script>
+<script src="../js/main.js"></script>
 <!-- Google Analytics -->
 <script>
   (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=

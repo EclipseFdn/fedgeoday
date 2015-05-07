@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sponsors>
   <sponsor>
-    <src>images/sponsors/azavea.png</src>
+    <src>../images/sponsors/azavea.png</src>
     <title>Azavea</title>
     <url>https://www.azavea.com/</url>
   </sponsor>
   <sponsor>
-    <src>images/sponsors/boundless.png</src>
+    <src>../images/sponsors/boundless.png</src>
     <title>Boundless</title>
     <url>https://www.boundlessgeo.com/</url>
   </sponsor>
   <sponsor>
-    <src>images/sponsors/cartodb.png</src>
+    <src>../images/sponsors/cartodb.png</src>
     <title>CartoDB</title>
     <url>https://www.cartodb.com/</url>
   </sponsor>
 <!--
   <sponsor>
-    <src>images/sponsors/mapbox.png</src>
+    <src>../images/sponsors/mapbox.png</src>
     <title>Mapbox</title>
     <url>https://www.mapbox.com/</url>
   </sponsor>
   <sponsor>
-    <src>images/sponsors/osgeo.png</src>
+    <src>../images/sponsors/osgeo.png</src>
     <title>OSGeo</title>
     <url>https://www.osgeo.org/</url>
   </sponsor>
 -->
   <sponsor>
-    <src>images/sponsors/locationtech.png</src>
+    <src>../images/sponsors/locationtech.png</src>
     <title>LocationTech</title>
     <url>https://www.locationtech.org/</url>
   </sponsor>

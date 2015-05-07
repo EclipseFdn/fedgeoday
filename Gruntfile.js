@@ -9,14 +9,14 @@ module.exports = function(grunt) {
                     expand: true,
                     flatten: true,
                     src: ['bower_components/bootstrap/fonts/*'],
-                    dest: './2015/fonts/',
+                    dest: './fonts/',
                     filter: 'isFile'
                 },
                 {
                     expand: true,
                     flatten: true,
                     src: ['bower_components/fontawesome/fonts/*'],
-                    dest: './2015/fonts/',
+                    dest: './fonts/',
                     filter: 'isFile'
                 },
                 ]
@@ -31,7 +31,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     // compiling styles.less into styles.css
-                    './2015/css/main.min.css': './src/less/main.less'
+                    './css/main.min.css': './src/less/main.less'
                 }
             }
         },
@@ -46,7 +46,7 @@ module.exports = function(grunt) {
                       './src/js/plugins.js', 
                       './src/js/main.js'
                       ],
-                dest: './2015/js/main.js',
+                dest: './js/main.js',
             },
         },
         uglify: {
@@ -57,7 +57,7 @@ module.exports = function(grunt) {
             },
             frontend: {
                 files: {
-                  './2015/js/main.min.js' : './2015/js/main.js',
+                  './js/main.min.js' : './js/main.js',
                 }
             },
         },
