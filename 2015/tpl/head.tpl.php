@@ -20,7 +20,7 @@ if (!defined('ABSPATH')) exit;
     <meta name="description" content="The conference for open source geo applications in the federal government.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//fonts.googleapis.com/css?family=Muli:300,400|Lora:400,700" rel="stylesheet" type="text/css"/>
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="stylesheet" href="css/main.min.css">
    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
