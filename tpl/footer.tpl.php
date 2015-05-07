@@ -41,7 +41,7 @@ if (!defined('ABSPATH')) exit;
           <div id="footer-info">
             <?php print $config['address'];?>
           </div>
-          <p><a href="<?php print $config['registration_link']?>" class="btn btn-primary">Register Now</a></p>
+          <p><a target="_blank" href="<?php print $config['registration_link']?>" class="btn btn-primary">Register Now</a></p>
         </div>
       </div>
     </div>
