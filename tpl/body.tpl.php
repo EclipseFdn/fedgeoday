@@ -68,7 +68,7 @@ if (!defined('ABSPATH')) exit;
           <div class="box top-offset">
             <h2 class="heading bg-primary">Registration</h2>
             <div class="content">
-              <p>Text goes here...</p>
+              <p>Register by August 31, 2015 for only $55!</p>
               <p><a href="<?php print $config['registration_link']?>" class="btn btn-secondary">Register Now</a></p>
             </div>
           </div>
