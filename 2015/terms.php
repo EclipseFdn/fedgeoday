@@ -10,6 +10,10 @@
  *    Andrew Ross(Eclipse Foundation) - Initial implementation
  *******************************************************************************/
 
+/** 
+ * Define ABSPATH as this files directory 
+ */
+define('ABSPATH', dirname(__FILE__) . '/2015/');
 
 require_once '../tpl/head.tpl.php';
 ?>
