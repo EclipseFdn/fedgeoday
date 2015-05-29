@@ -17,5 +17,5 @@ if (!defined('ABSPATH')) exit;
   <li><a href="./index.php#registration">Register</a></li>
   <li><a href="./terms.php">Terms</a></li>
   <li><a href="./index.php#schedule">Schedule</a></li>
-  <li><a href="./indexp.php#sponsorship">Sponsorship</a></li>
+  <li><a href="./index.php#sponsorship">Sponsorship</a></li>
 </ul>
