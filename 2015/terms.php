@@ -16,7 +16,7 @@
 define('ABSPATH', dirname(__FILE__) . '/2015/');
 
 require_once '../tpl/head.tpl.php';
-require_once '../tpl/body.tpl.php';
+require_once '../tpl/top.tpl.php';
 ?>
 
 <p>Put TOU here</p>
