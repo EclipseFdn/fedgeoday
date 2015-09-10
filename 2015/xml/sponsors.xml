@@ -15,6 +15,11 @@
     <title>CartoDB</title>
     <url>https://www.cartodb.com/</url>
   </sponsor>
+  <sponsor>
+    <src>../images/sponsors/radiantblue.png</src>
+    <title>RadiantBlue</title>
+    <url>http://radiantblue.com/</url>
+  </sponsor>
 <!--
   <sponsor>
     <src>../images/sponsors/mapbox.png</src>
