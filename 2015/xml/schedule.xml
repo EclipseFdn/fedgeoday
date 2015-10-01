@@ -75,8 +75,8 @@ Open source software is produced by distributed teams rarely in the same place a
     <time>11:15</time>
     <room_id>1</room_id>
     <title>An Intelligence Agency in Transition: Succeeding in the Open</title>
-    <teaser>Chris R, Public Open Source Software Development Lead at NGA, explains how NGA is benefitting from open source and open data.</teaser>
-    <body><![CDATA[<p>TBD</p>
+    <teaser>Chris R, Open Source Software Development Lead at NGA, shared NGA's open source strategy</teaser>
+    <body><![CDATA[<p>NGA has open sourced millions of dollars of code to GitHub over the last year. The software ranges from geospatial big data systems to source code for first responder apps.  Mr. Rasmussen will discuss NGA's open source strategy and the agency's cultural pivot toward a more unclassified future.</p>
       ]]></body>
   </session>
   <session>
@@ -136,10 +136,15 @@ Open source software is produced by distributed teams rarely in the same place a
   <session>
     <time>13:45</time>
     <room_id>1</room_id>
-    <title>TBD</title>
-    <teaser>TBD</teaser>
+    <title>Mapping 'Big Data' with OpenGeo Suite</title>
+    <teaser>Ann Johnson, CEO from Boundless, discusses how the open source OpenGeo Suite can be used to derive benefits from big data in government.</teaser>
     <body><![CDATA[
-<p>TBD</p>
+<p>As the Federal government moves ever further into the world of SmallSats,
+full-motion video, social media, and volunteer geographic information,
+there is an increased need to handle geospatial 'big data'.  This talk
+will cover how Boundless has designed the OpenGeo Suite to handle the
+management, visualization, analysis and dissemination of geospatial big
+data in a world of shrinking budgets and reduced resources.</p>
       ]]></body>
   </session>
   <session>
