@@ -17,14 +17,6 @@
     <body><![CDATA[<p>A brief welcome to FedGeoDay 2015</p> 
       ]]></body>
   </session>
-  <session>
-    <time>9:30</time>
-    <room_id>3</room_id>
-    <title>Welcome</title>
-    <teaser>A brief welcome to FedGeoDay 2015.</teaser>
-    <body><![CDATA[<p>A brief welcome to FedGeoDay 2015</p> 
-      ]]></body>
-  </session>
 <!-- ************************ OPENING PLENARY ****************** -->
   <session>
     <time>9:45</time>
@@ -78,9 +70,108 @@ Open source software is produced by distributed teams rarely in the same place a
     <body><![CDATA[<p>Refreshments served in the foyer outside the session rooms</p>
       ]]></body>
   </session>
+<!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>10:45</time>
-    <room_id>3</room_id>
+    <time>11:15</time>
+    <room_id>1</room_id>
+    <title>An Intelligence Agency in Transition: Succeeding in the Open</title>
+    <teaser>Chris R, Public Open Source Software Development Lead at NGA, explains how NGA is benefitting from open source and open data.</teaser>
+    <body><![CDATA[<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>11:45</time>
+    <room_id>1</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[<p></p>
+      ]]></body>
+  </session>
+    <session>
+    <time>11:15</time>
+    <room_id>2</room_id>
+    <title>Building Streaming Low-latency Spatio-temporal Analytics with GeoMesa, Kafka, and Storm</title>
+    <teaser>Anthony Fox, Director, Data Science &amp; System Architecture at CCRi, describes a high performance geoprocessing framework.</teaser>
+    <body><![CDATA[<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>11:45</time>
+    <room_id>2</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[<p></p>
+      ]]></body>
+  </session>
+
+
+<!-- ************************ LUNCH TIME ****************** -->
+  <session>
+    <time>12:15</time>
+    <room_id>1</room_id>
+    <title>Lunch</title>
+    <teaser>Lunch will be served in the foyer outside the session rooms.</teaser>
+    <body><![CDATA[<p>Lunch will be served in the foyer outside the session rooms.</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>12:15</time>
+    <room_id>2</room_id>
+    <title>Lunch</title>
+    <teaser>Lunch will be served in the foyer outside the session rooms.</teaser>
+    <body><![CDATA[<p>Lunch will be served in the foyer outside the session rooms.</p>
+      ]]></body>
+  </session>
+<!-- ************************ LUNCH TIME ****************** -->
+
+  <session>
+    <time>13:15</time>
+    <room_id>1</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:45</time>
+    <room_id>1</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:15</time>
+    <room_id>2</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:45</time>
+    <room_id>2</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>14:15</time>
+    <room_id>1</room_id>
+    <title>Break</title>
+    <teaser>Refreshments served in the foyer outside the session rooms.</teaser>
+    <body><![CDATA[<p>Refreshments served in the foyer outside the session rooms</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:15</time>
+    <room_id>2</room_id>
     <title>Break</title>
     <teaser>Refreshments served in the foyer outside the session rooms.</teaser>
     <body><![CDATA[<p>Refreshments served in the foyer outside the session rooms</p>
@@ -88,88 +179,58 @@ Open source software is produced by distributed teams rarely in the same place a
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>10:00</time>
+    <time>14:45</time>
+    <room_id>1</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>15:15</time>
+    <room_id>1</room_id>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:45</time>
     <room_id>2</room_id>
-    <title>Web maps that work</title>
-    <teaser>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</teaser>
-    <body><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed quis dictum ex. Proin lobortis quam non dolor tempus ultrices. 
-    Aenean lectus nisl, efficitur et odio vel, luctus accumsan ligula.
-     Nam ullamcorper ornare quam, nec congue diam dapibus dignissim.
-      Vivamus ac libero hendrerit, consequat libero ac, dictum est. 
-      In auctor vel augue a malesuada. Donec vehicula sem orci, 
-      ac venenatis mauris tristique ut. Mauris pulvinar leo ac 
-      pellentesque malesuada. Maecenas imperdiet nec ipsum id 
-      ullamcorper. Quisque dolor nibh, pretium nec sollicitudin 
-      vitae, auctor nec arcu.</p>
-      ]]></body>
-  </session>
-    <session>
-    <time>11:00</time>
-    <room_id>1</room_id>
-    <title>Opening remarks</title>
-    <teaser>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</teaser>
-    <body><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed quis dictum ex. Proin lobortis quam non dolor tempus ultrices. 
-    Aenean lectus nisl, efficitur et odio vel, luctus accumsan ligula.
-     Nam ullamcorper ornare quam, nec congue diam dapibus dignissim.
-      Vivamus ac libero hendrerit, consequat libero ac, dictum est. 
-      In auctor vel augue a malesuada. Donec vehicula sem orci, 
-      ac venenatis mauris tristique ut. Mauris pulvinar leo ac 
-      pellentesque malesuada. Maecenas imperdiet nec ipsum id 
-      ullamcorper. Quisque dolor nibh, pretium nec sollicitudin 
-      vitae, auctor nec arcu.</p>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
       ]]></body>
   </session>
   <session>
-    <time>12:00</time>
+    <time>15:15</time>
     <room_id>2</room_id>
-    <title>Lunch break</title>
-    <teaser>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</teaser>
-    <body><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed quis dictum ex. Proin lobortis quam non dolor tempus ultrices. 
-    Aenean lectus nisl, efficitur et odio vel, luctus accumsan ligula.
-     Nam ullamcorper ornare quam, nec congue diam dapibus dignissim.
-      Vivamus ac libero hendrerit, consequat libero ac, dictum est. 
-      In auctor vel augue a malesuada. Donec vehicula sem orci, 
-      ac venenatis mauris tristique ut. Mauris pulvinar leo ac 
-      pellentesque malesuada. Maecenas imperdiet nec ipsum id 
-      ullamcorper. Quisque dolor nibh, pretium nec sollicitudin 
-      vitae, auctor nec arcu.</p>
+    <title>TBD</title>
+    <teaser>TBD</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>17:00</time>
+    <room_id>1</room_id>
+    <title>Reception</title>
+    <teaser>Join us for a drink at TBDBAR</teaser>
+    <body><![CDATA[<p>Join us for a drink at TBDBAR</p>
       ]]></body>
   </session>
   <session>
-    <time>13:30</time>
-    <room_id>1</room_id>
-    <title>Web maps that work</title>
-    <teaser>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</teaser>
-    <body><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed quis dictum ex. Proin lobortis quam non dolor tempus ultrices. 
-    Aenean lectus nisl, efficitur et odio vel, luctus accumsan ligula.
-     Nam ullamcorper ornare quam, nec congue diam dapibus dignissim.
-      Vivamus ac libero hendrerit, consequat libero ac, dictum est. 
-      In auctor vel augue a malesuada. Donec vehicula sem orci, 
-      ac venenatis mauris tristique ut. Mauris pulvinar leo ac 
-      pellentesque malesuada. Maecenas imperdiet nec ipsum id 
-      ullamcorper. Quisque dolor nibh, pretium nec sollicitudin 
-      vitae, auctor nec arcu.</p>
+    <time>17:00</time>
+    <room_id>2</room_id>
+    <title>Reception</title>
+    <teaser>Join us for a drink at TBDBAR</teaser>
+    <body><![CDATA[<p>Join us for a drink at TBDBAR</p>
       ]]></body>
   </session>
-  <session>
-    <time>15:00</time>
-    <room_id>1</room_id>
-    <title>Web maps that work</title>
-    <teaser>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</teaser>
-    <body><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Sed quis dictum ex. Proin lobortis quam non dolor tempus ultrices. 
-    Aenean lectus nisl, efficitur et odio vel, luctus accumsan ligula.
-     Nam ullamcorper ornare quam, nec congue diam dapibus dignissim.
-      Vivamus ac libero hendrerit, consequat libero ac, dictum est. 
-      In auctor vel augue a malesuada. Donec vehicula sem orci, 
-      ac venenatis mauris tristique ut. Mauris pulvinar leo ac 
-      pellentesque malesuada. Maecenas imperdiet nec ipsum id 
-      ullamcorper. Quisque dolor nibh, pretium nec sollicitudin 
-      vitae, auctor nec arcu.</p>
-      ]]></body>
-  </session>
+<!-- ************************ BREAK TIME ****************** -->
+
 </schedule>
