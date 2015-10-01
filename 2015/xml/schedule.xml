@@ -82,25 +82,25 @@ Open source software is produced by distributed teams rarely in the same place a
   <session>
     <time>11:45</time>
     <room_id>1</room_id>
-    <title>TBD</title>
-    <teaser>TBD</teaser>
-    <body><![CDATA[<p></p>
+    <title>Decision Making Data: Building the Future of Government Technology</title>
+    <teaser>Santiago Giraldo, Civic Technologist at Cartodb, explains</teaser>
+    <body><![CDATA[<p>Emerging and rapidly growing location intelligence technology has become an essential insight tool for the modern government. We are in the midst of a necessary shift in how we approach processes of evaluation and decision making in the ever expanding paradigm of government data. Technologies such as CartoDB are quickly reframing how we understand and approach the challenges faced by federal agencies. Real-time mapping, web-based data visualization, and fast, almost-instantly leverageable spatial analysis allows for agencies to quickly make important decisions effectively mitigating potential risks, increasing evaluation and response times, and allowing for a large degree of agility in processing information. Let's build the future of government location intelligence together.</p>
       ]]></body>
   </session>
     <session>
     <time>11:15</time>
     <room_id>2</room_id>
     <title>Building Streaming Low-latency Spatio-temporal Analytics with GeoMesa, Kafka, and Storm</title>
-    <teaser>Anthony Fox, Director, Data Science &amp; System Architecture at CCRi, describes a high performance geoprocessing framework.</teaser>
+    <teaser>Anthony Fox, Director, Data Science &amp; System Architecture at CCRi, describes the GeoMesa project.</teaser>
     <body><![CDATA[<p>TBD</p>
       ]]></body>
   </session>
   <session>
     <time>11:45</time>
     <room_id>2</room_id>
-    <title>TBD</title>
-    <teaser>TBD</teaser>
-    <body><![CDATA[<p></p>
+    <title>GeoWave: Geospatial Indexing in Accumulo</title>
+    <teaser>Rich Fecher, Software Engineer at RadiantBlue, describes the GeoWave project.</teaser>
+    <body><![CDATA[<p>GeoWave is an open source software project developed at the National Geospatial-Intelligence Agency (NGA) in collaboration with RadiantBlue Technologies and Booz Allen Hamilton.  GeoWave leverages the scalability of a distributed key-value store for effective storage, retrieval, and analysis of massive geospatial datasets.  It currently does so by providing plugins to connect GeoTools, PDAL, and Mapnik to an Accumulo based data store.  Leveraging this architecture, GeoWave is able to provide Hadoop input and output formats for distributed processing and analysis of geospatial data, and is able to enable sharing and visualization of massive geospatial datasets using Mapnik or GeoServer.  GeoWave intends to bridge gaps between popular geospatial projects, the realm of distributed key-value stores, and distributed processing frameworks with continued integration efforts on the roadmap.</p>
       ]]></body>
   </session>
 
@@ -214,7 +214,7 @@ Open source software is produced by distributed teams rarely in the same place a
 <p>TBD</p>
       ]]></body>
   </session>
-<!-- ************************ BREAK TIME ****************** -->
+<!-- ************************ RECEPTION ****************** -->
   <session>
     <time>17:00</time>
     <room_id>1</room_id>
@@ -231,6 +231,6 @@ Open source software is produced by distributed teams rarely in the same place a
     <body><![CDATA[<p>Join us for a drink at TBDBAR</p>
       ]]></body>
   </session>
-<!-- ************************ BREAK TIME ****************** -->
+<!-- ************************ RECEPTION ****************** -->
 
 </schedule>
