@@ -83,7 +83,7 @@ if (!defined('ABSPATH')) exit;
             <?php foreach($sessions as $session) :?>
               <article class="timeline-entry clearfix">
                 <div class="timeline-entry-inner">
-                  <?php if (!isset($lastime) || $lastime != $session['time']) :?>
+                  <?php if (!isset($lastime) || (isset($lastime) && $lastime != (string)$session['time'])) :?>
                     <time class="timeline-time">
                       <span><?php print $session['time'];?></span>
                     </time>
