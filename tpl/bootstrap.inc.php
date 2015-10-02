@@ -84,7 +84,7 @@ foreach ($xml_schedule as $session) {
   }
 
   $sessions[] = array(
-    'time' => $session->titme,
+    'time' => $session->time,
     'room_id' => $session->room_id,
     'title'  => $session->title,
     'teaser' => $session->teaser,
