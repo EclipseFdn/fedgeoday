@@ -16,6 +16,11 @@
     <url>https://www.cartodb.com/</url>
   </sponsor>
   <sponsor>
+    <src>../images/sponsors/DG.jpg</src>
+    <title>DigitalGlobe</title>
+    <url>https://www.digitalglobe.com/</url>
+  </sponsor>
+  <sponsor>
     <src>../images/sponsors/radiantblue.png</src>
     <title>RadiantBlue</title>
     <url>http://radiantblue.com/</url>
