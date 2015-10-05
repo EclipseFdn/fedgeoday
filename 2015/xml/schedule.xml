@@ -146,9 +146,18 @@ licenses.  </p>
 <p>TBD</p>
       ]]></body>
   </session>
-<!-- ************************ BREAK TIME ****************** -->
   <session>
     <time>14:45</time>
+    <room_id>1</room_id>
+    <title>GeoGig: Innovate Your Workflows for Spatial Data Collaboration</title>
+    <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGog, a powerful tool for enabling spatial data workflows.</teaser>
+    <body><![CDATA[
+<p>TBD</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>15:20</time>
     <room_id>3</room_id>
     <title>Break</title>
     <teaser>Refreshments served in the Kogod Lobby outside the session rooms.</teaser>
@@ -157,7 +166,7 @@ licenses.  </p>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>15:15</time>
+    <time>15:40</time>
     <room_id>1</room_id>
     <title>Lightning talks</title>
     <teaser>A series of short talks on important topics and initiatives.</teaser>
