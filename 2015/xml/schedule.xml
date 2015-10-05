@@ -150,9 +150,12 @@ licenses.  </p>
     <time>14:45</time>
     <room_id>1</room_id>
     <title>GeoGig: Innovate Your Workflows for Spatial Data Collaboration</title>
-    <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGog, a powerful tool for enabling spatial data workflows.</teaser>
+    <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGog, a powerful tool for enabling collaborative spatial data workflows.</teaser>
     <body><![CDATA[
-<p>TBD</p>
+<p>GeoGig is a LocationTech project that enables new and innovative workflows for spatial data collaboration with decentralized management of versioned data. This session will show concepts and lessons learned from current trends in software development and how they can be applied to management of geospatial information.</p> 
+
+<p>Everyone working with geospatial data eventually faces the problem of managing their information and assets as they change over time. Versioning of geospatial data has been an issue for any organization where more than one individual is contributing to or manipulating the data. Questions like, “Who performed that change?” and “When was that data changed?” become hard to answer, while traditional versioning approaches are cumbersome to use and utilize old paradigms. In this presentation we will look how GeoGig allows online, collaborative development of spatial data content, increasing productivity via multi-user geospatial versioned editing. 
+</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
