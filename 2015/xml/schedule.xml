@@ -124,7 +124,7 @@ licenses.  </p>
     <time>13:35</time>
     <room_id>2</room_id>
     <title>GeoWave: Geospatial Indexing in Accumulo</title>
-    <teaser>Rich Fecher, Software Engineer at RadiantBlue, describes the GeoWave project.</teaser>
+    <teaser>Whitney O'Meara, Software Engineer at RadiantBlue, describes the GeoWave project.</teaser>
     <body><![CDATA[<p>GeoWave is an open source software project developed at the National Geospatial-Intelligence Agency (NGA) in collaboration with RadiantBlue Technologies and Booz Allen Hamilton.  GeoWave leverages the scalability of a distributed key-value store for effective storage, retrieval, and analysis of massive geospatial datasets.  It currently does so by providing plugins to connect GeoTools, PDAL, and Mapnik to an Accumulo based data store.  Leveraging this architecture, GeoWave is able to provide Hadoop input and output formats for distributed processing and analysis of geospatial data, and is able to enable sharing and visualization of massive geospatial datasets using Mapnik or GeoServer.  GeoWave intends to bridge gaps between popular geospatial projects, the realm of distributed key-value stores, and distributed processing frameworks with continued integration efforts on the roadmap.</p>
       ]]></body>
   </session>
