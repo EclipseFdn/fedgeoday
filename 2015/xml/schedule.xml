@@ -71,9 +71,9 @@ data in a world of shrinking budgets and reduced resources.</p>
   <session>
     <time>11:25</time>
     <room_id>2</room_id>
-    <title>Fast, Distributed Geoprocessing with GeoTrellis</title>
-    <teaser>Robert Cheetham, CEO at Azavea, discusses examples of how a powerful open source technology called GeoTrellis can be used to inform government policy.</teaser>
-    <body><![CDATA[<p>This talk will give an overview of the GeoTrellis framework; how it leverages features of Scala, Akka, Spark and other frameworks; and how it can be integrated with conventional web mapping tools to create apps that are more than just dots on a map.  The talk will also give an overview of applications for online geoprocessing in several domains including:  stormwater modeling, education games, infrastructure prioritization, climate change and transportation.</p>
+    <title>Introduction to GeoTrellis for Big, Fast, Raster Processing</title>
+    <teaser>Robert Cheetham, CEO at Azavea, will introduce and discuss examples of GeoTrellis, an open source technology for fast raster processing</teaser>
+    <body><![CDATA[<p>This talk will give an overview of the GeoTrellis framework; how it leverages features of Scala, Spark and other frameworks; and how it can be integrated with conventional web mapping tools to create apps that are more than just dots on a map. The talk will also give an overview of applications for online geoprocessing in several domains including: imagery, stormwater modeling, education games, infrastructure prioritization, climate change and transportation.</p>
       ]]></body>
   </session>
 <!-- ************************ LUNCH TIME ****************** -->
