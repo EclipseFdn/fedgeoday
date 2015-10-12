@@ -174,7 +174,11 @@ licenses.  </p>
     <title>Lightning talks</title>
     <teaser>A series of short talks on important topics and initiatives.</teaser>
     <body><![CDATA[
-<p>Do you have something important to share? Do a lightning talk at FedGeoDay to spread the word. Contact andrew dot ross at eclipse at org.</p> <p>Speaker 1: “Eddie Pickle, Managing Director Open Source Programs at Radiant Blue, How Open Methods are Changing What You Pay for Geospatial Services</p>
+<p>Do you have something important to share? Do a lightning talk at FedGeoDay to spread the word. Contact andrew dot ross at eclipse at org.</p> 
+<ul>
+  <li>How Open Methods are Changing What You Pay for Geospatial Services by Eddie Pickle, Managing Director Open Source Programs at Radiant Blue</li>
+  <li>Sparkifying MapAlgebra by Ryan Smith, US Government Tech Solutions Team</li>
+</ul>
       ]]></body>
   </session>
 <!-- ************************ RECEPTION ****************** -->
