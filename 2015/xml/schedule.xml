@@ -42,7 +42,7 @@
     <title>Open source inspired workflows for open (and closed) geospatial data</title>
     <teaser>Ben Balter, Government Evangelist at Github, speaks about how open source workflow can benefit government.</teaser>
     <body><![CDATA[<p>
-Open source software is produced by distributed teams rarely in the same place at the same time, rarely working on the same thing at the same time, yet they consistently produce better results than their closed source and proprietary counterparts. A big part of their continued success is open source's uniquee workflow and tools. What would it look like to treat geospatial data with the same respect that open source developers treat their code? What if we took the tools and workflows of open source and used them to create collaborative geospatial tools and datasets, even if that data was ultimately never public?</p>
+Open source software is produced by distributed teams rarely in the same place at the same time, rarely working on the same thing at the same time, yet they consistently produce better results than their closed source and proprietary counterparts. A big part of their continued success is open source's unique workflow and tools. What would it look like to treat geospatial data with the same respect that open source developers treat their code? What if we took the tools and workflows of open source and used them to create collaborative geospatial tools and datasets, even if that data was ultimately never public?</p>
       ]]></body>
   </session>
   <session>
@@ -161,7 +161,7 @@ licenses.  </p>
   <session>
     <time>14:40</time>
     <room_id>1</room_id>
-    <title>Panel Discussioni: State of Mapping in Government</title>
+    <title>Panel Discussion: State of Mapping in Government</title>
     <teaser>Panelists from USGS, Department of Agriculture, Department of State, and Peace Corps discuss the current state of mapping in Government.</teaser>
     <body><![CDATA[
 <p>The panel will discuss what digital geo capabilities are needed across government agencies. In government, we have people who are at the top of the field often in agencies like NASA, NOAA, and USGS, and others who are not using digital technologies at that level, creating an uneven geo workforce. How can the federal government support upgrading our mapping and digital geo capabilities across the federal government? What are the options, challenges, and key priority projects that should be considered?</p>
@@ -190,7 +190,7 @@ licenses.  </p>
     <title>Lightning talks</title>
     <teaser>A series of short talks on important topics and initiatives.</teaser>
     <body><![CDATA[
-<p>Do you have something important to share? Do a lightning talk at FedGeoDay to spread the word. Contact andrew dot ross at eclipse at org.</p> 
+<p>Do you have something important to share? Do a lightning talk at FedGeoDay to spread the word. Contact andrea dot ross at eclipse at org.</p> 
 <ul>
   <li><strong>How Open Methods are Changing What You Pay for Geospatial Services</strong> by Eddie Pickle, Managing Director Open Source Programs at Radiant Blue</li>
   <li><strong>Sparkifying MapAlgebra</strong> by Ryan Smith, US Government Tech Solutions Team</li>
