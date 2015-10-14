@@ -104,7 +104,7 @@ data in a world of shrinking budgets and reduced resources.</p>
   </session>
 
   <session>
-    <time>13:35</time>
+    <time>13:25</time>
     <room_id>1</room_id>
     <title>Embracing Open Source for Real -- Deploying, Enhancing, and Developing OSS in the Federal Government</title>
     <teaser>Ben Tuttle, Project Scientist at NGA shares experiences developing and using open source technologies at a federal agency.</teaser>
@@ -121,7 +121,7 @@ licenses.  </p>
       ]]></body>
   </session>
   <session>
-    <time>13:35</time>
+    <time>13:25</time>
     <room_id>2</room_id>
     <title>GeoWave: Geospatial Indexing in Accumulo</title>
     <teaser>Whitney O'Meara, Software Engineer at RadiantBlue, describes the GeoWave project.</teaser>
@@ -129,7 +129,7 @@ licenses.  </p>
       ]]></body>
   </session>
   <session>
-    <time>14:10</time>
+    <time>13:50</time>
     <room_id>1</room_id>
     <title>Observing the Whole Earth, Every Day</title>
     <teaser>Rich Leshner from Planet Labs will discuss the company's mission to image the entire earth, every day.</teaser>
@@ -138,7 +138,7 @@ licenses.  </p>
       ]]></body>
   </session>
   <session>
-    <time>14:10</time>
+    <time>13:50</time>
     <room_id>2</room_id>
     <title>Geospatial Big Data</title>
     <teaser>Mark Giaconia, Director of Insight Platform Solutions at DigitalGlobe details Big Data initiatives at DigitalGlobe.</teaser>
@@ -147,7 +147,7 @@ licenses.  </p>
       ]]></body>
   </session>
   <session>
-    <time>14:45</time>
+    <time>14:15</time>
     <room_id>1</room_id>
     <title>GeoGig: Innovate Your Workflows for Spatial Data Collaboration</title>
     <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGig, a powerful tool for enabling collaborative spatial data workflows.</teaser>
@@ -156,6 +156,22 @@ licenses.  </p>
 
 <p>Everyone working with geospatial data eventually faces the problem of managing their information and assets as they change over time. Versioning of geospatial data has been an issue for any organization where more than one individual is contributing to or manipulating the data. Questions like, “Who performed that change?” and “When was that data changed?” become hard to answer, while traditional versioning approaches are cumbersome to use and utilize old paradigms. In this presentation we will look how GeoGig allows online, collaborative development of spatial data content, increasing productivity via multi-user geospatial versioned editing. 
 </p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:40</time>
+    <room_id>1</room_id>
+    <title>Panel Discussioni: State of Mapping in Government</title>
+    <teaser>Panelists from USGS, Department of Agriculture, Department of State, and Peace Corps discuss the current state of mapping in Government.</teaser>
+    <body><![CDATA[
+<p>The panel will discuss what digital geo capabilities are needed across government agencies. In government, we have people who are at the top of the field often in agencies like NASA, NOAA, and USGS, and others who are not using digital technologies at that level, creating an uneven geo workforce. How can the federal government support upgrading our mapping and digital geo capabilities across the federal government? What are the options, challenges, and key priority projects that should be considered?</p>
+<p>Panelists:</p>
+<ul>
+<li>Sophia B Liu (U.S. Geological Survey, Mendenhall Postdoc Fellow) - Moderator</li>
+<li>Stephen Lowe (U.S. Department of Agriculture Geospatial Information Officer)</li>
+<li>Tom Gertin (State Department, GIS Specialist)</li>
+<li>Courtney Clark (Peace Corps, Innovation Fellow)</li>
+</ul>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
@@ -169,7 +185,7 @@ licenses.  </p>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>15:40</time>
+    <time>15:35</time>
     <room_id>1</room_id>
     <title>Lightning talks</title>
     <teaser>A series of short talks on important topics and initiatives.</teaser>
