@@ -143,7 +143,7 @@ licenses.  </p>
     <title>Geospatial Big Data</title>
     <teaser>Mark Giaconia, Director of Insight Platform Solutions at DigitalGlobe details Big Data initiatives at DigitalGlobe.</teaser>
     <body><![CDATA[
-<p>TBD</p>
+<p>DigitalGlobe has a 90 PB archive of high resolution, multispectral satellite imagery. This imagery can produce insights that help solve many problems, but in order to solve big problems you need a platform that can run algorithms and supporting image enrichment at scale. My briefing will talk about some of the challenges with GBD, as well as a description of our platform capability.</p>
       ]]></body>
   </session>
   <session>
