@@ -106,18 +106,13 @@ data in a world of shrinking budgets and reduced resources.</p>
   <session>
     <time>13:25</time>
     <room_id>1</room_id>
-    <title>Embracing Open Source for Real -- Deploying, Enhancing, and Developing OSS in the Federal Government</title>
-    <teaser>Ben Tuttle, Project Scientist at NGA shares experiences developing and using open source technologies at a federal agency.</teaser>
-    <body><![CDATA[<p>Open source software has long been used by government agencies with great
-success and significant cost and capability benefits. However, it has also
-long been misunderstood and deploying, enhancing or developing OSS has been
-a significant challenge at times. Recently the NGA has begun to fully
-embrace OSS and break down some of these barriers leading to increased
-efficiencies, improved capabilities, and better engagement with the OSS
-community. We will talk about how this happened, the benefits to the
-government and the OSS community, as well as the agency GitHub account where
-government developed code is being released back to the public under OSS
-licenses.  </p>
+    <title>GeoGig: Innovate Your Workflows for Spatial Data Collaboration</title>
+    <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGig, a powerful tool for enabling collaborative spatial data workflows.</teaser>
+    <body><![CDATA[
+<p>GeoGig is a LocationTech project that enables new and innovative workflows for spatial data collaboration with decentralized management of versioned data. This session will show concepts and lessons learned from current trends in software development and how they can be applied to management of geospatial information.</p> 
+
+<p>Everyone working with geospatial data eventually faces the problem of managing their information and assets as they change over time. Versioning of geospatial data has been an issue for any organization where more than one individual is contributing to or manipulating the data. Questions like, “Who performed that change?” and “When was that data changed?” become hard to answer, while traditional versioning approaches are cumbersome to use and utilize old paradigms. In this presentation we will look how GeoGig allows online, collaborative development of spatial data content, increasing productivity via multi-user geospatial versioned editing. 
+</p>
       ]]></body>
   </session>
   <session>
@@ -149,13 +144,18 @@ licenses.  </p>
   <session>
     <time>14:15</time>
     <room_id>1</room_id>
-    <title>GeoGig: Innovate Your Workflows for Spatial Data Collaboration</title>
-    <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGig, a powerful tool for enabling collaborative spatial data workflows.</teaser>
-    <body><![CDATA[
-<p>GeoGig is a LocationTech project that enables new and innovative workflows for spatial data collaboration with decentralized management of versioned data. This session will show concepts and lessons learned from current trends in software development and how they can be applied to management of geospatial information.</p> 
-
-<p>Everyone working with geospatial data eventually faces the problem of managing their information and assets as they change over time. Versioning of geospatial data has been an issue for any organization where more than one individual is contributing to or manipulating the data. Questions like, “Who performed that change?” and “When was that data changed?” become hard to answer, while traditional versioning approaches are cumbersome to use and utilize old paradigms. In this presentation we will look how GeoGig allows online, collaborative development of spatial data content, increasing productivity via multi-user geospatial versioned editing. 
-</p>
+    <title>Embracing Open Source for Real -- Deploying, Enhancing, and Developing OSS in the Federal Government</title>
+    <teaser>Ben Tuttle, Project Scientist at NGA shares experiences developing and using open source technologies at a federal agency.</teaser>
+    <body><![CDATA[<p>Open source software has long been used by government agencies with great
+success and significant cost and capability benefits. However, it has also
+long been misunderstood and deploying, enhancing or developing OSS has been
+a significant challenge at times. Recently the NGA has begun to fully
+embrace OSS and break down some of these barriers leading to increased
+efficiencies, improved capabilities, and better engagement with the OSS
+community. We will talk about how this happened, the benefits to the
+government and the OSS community, as well as the agency GitHub account where
+government developed code is being released back to the public under OSS
+licenses.  </p>
       ]]></body>
   </session>
   <session>
