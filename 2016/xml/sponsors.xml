@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sponsors>
+  <sponsor>
+    <src>../images/sponsors/azavea.png</src>
+    <title>Azavea</title>
+    <url>http://www.azavea.com/</url>
+  </sponsor>
+  <sponsor>
+    <src>../images/sponsors/boundless.png</src>
+    <title>Boundless</title>
+    <url>http://www.boundlessgeo.com/</url>
+  </sponsor>
+  <sponsor>
+    <src>../images/sponsors/cartodb.png</src>
+    <title>CartoDB</title>
+    <url>https://www.cartodb.com/</url>
+  </sponsor>
+  <sponsor>
+    <src>../images/sponsors/DG.jpg</src>
+    <title>DigitalGlobe</title>
+    <url>https://www.digitalglobe.com/</url>
+  </sponsor>
+  <sponsor>
+    <src>../images/sponsors/radiantblue.png</src>
+    <title>RadiantBlue</title>
+    <url>http://radiantblue.com/</url>
+  </sponsor>
+<!--
+  <sponsor>
+    <src>../images/sponsors/mapbox.png</src>
+    <title>Mapbox</title>
+    <url>https://www.mapbox.com/</url>
+  </sponsor>
+  <sponsor>
+    <src>../images/sponsors/osgeo.png</src>
+    <title>OSGeo</title>
+    <url>https://www.osgeo.org/</url>
+  </sponsor>
+-->
+  <sponsor>
+    <src>../images/sponsors/locationtech.png</src>
+    <title>LocationTech</title>
+    <url>https://www.locationtech.org/</url>
+  </sponsor>
+</sponsors>

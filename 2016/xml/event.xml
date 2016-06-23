@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <pagetitle>FedGeoDay</pagetitle>
+  <conferencetitle>FedGeo Day Conference</conferencetitle>
+  <teaser><![CDATA[The conference for <span>open source geo applications</span> in the federal government.]]></teaser>
+  <schedule>0</schedule>
+  
+  <date><![CDATA[October 15<sup>th</sup> 2015]]></date>
+  <address><![CDATA[Woolly Mammoth Theatre Company<br/>
+641 D Street Northwest<br/>
+Washington, DC 20004]]></address>
+  <twitter_link><![CDATA[<a class="twitter-timeline" href="https://twitter.com/hashtag/fedgeo2015" data-widget-id="590171817974726657">#fedgeo2015 Tweets</a>]]></twitter_link>
+  <registration_link><![CDATA[https://www.regonline.com/fedgeoday2015]]></registration_link>
+  <location>Washington DC</location>
+  <registration_title>Modern Tools for GIS, Geo Data &amp; Cartography</registration_title>
+  <registration_teaser><![CDATA[<p>Register now for only $79!</p>]]></registration_teaser>
+  <registration_body><![CDATA[<p><strong>Open source applications</strong> are changing GIS, cartography, web mapping, 
+and map publishing, throwing open the door of what's possible in geo. 
+This <strong>one day conference</strong> will introduce you to these tools, 
+show you what you can do with them, and walk through how and 
+why government agencies are using them to dramatically 
+improve their mapping, cartography, and GIS projects.</p>]]></registration_body>
+  <sponsorship_link><![CDATA[<a href="../documents/FedGeoDay_sponsor_agreement_2015.pdf" class="btn btn-secondary" target="_blank">Sponsor Agreement</a>]]></sponsorship_link>
+</event>
+
+

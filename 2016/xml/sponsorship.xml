@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sponsorships>
+  <sponsorship>
+    <price>2000$</price>
+    <price_text>Member Discounted price</price_text>
+    <title>Sponsor the conference as a member</title>
+    <body><![CDATA[]]></body>
+  </sponsorship>
+  <sponsorship>
+    <price>4,500$</price>
+    <price_text>Full price</price_text>
+    <title>Sponsor the conference as a non-member</title>
+    <body><![CDATA[<a href="https://locationtech.org/content/become-member" class="btn btn-sm btn-secondary">Become a member</a>]]></body>
+  </sponsorship>
+  <sponsorship>
+    <price>3200$</price>
+    <price_text>Starting at.</price_text>
+    <title>Sponsor the conference as a member</title>
+    <body><![CDATA[Support both FedGeoDay and the <a href="http://tour.locationtech.org">Global Tour</a>, and receive further discounts on each!]]></body>
+  </sponsorship>
+</sponsorships>
+

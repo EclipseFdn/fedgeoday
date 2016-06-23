@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+<!-- ************************ OPENING PLENARY ****************** -->
+  <session>
+    <time>9:00</time>
+    <room_id>3</room_id>
+    <title>Registration</title>
+    <teaser>Pick up your nametag at the registration desk.</teaser>
+    <body><![CDATA[<p>Pick up your nametag at the registration desk.</p> 
+      ]]></body>
+  </session>
+  <session>
+    <time>9:30</time>
+    <room_id>1</room_id>
+    <title>Welcome</title>
+    <teaser>MC Chris Tucker helps us kick off FedGeoDay 2015.</teaser>
+    <body><![CDATA[<p>A brief welcome to FedGeoDay 2015</p> 
+      ]]></body>
+  </session>
+<!-- ************************ OPENING PLENARY ****************** -->
+  <session>
+    <time>9:45</time>
+    <room_id>1</room_id>
+    <title>Keynote: An Intelligence Agency in Transition: Succeeding in the Open</title>
+    <teaser>Chris Rasmussen, Open Source Software Development Lead at NGA, shares NGA's open source strategy</teaser>
+    <body><![CDATA[<p>NGA has open sourced millions of dollars of code to GitHub over the last year. The software ranges from geospatial big data systems to source code for first responder apps.  Mr. Rasmussen will discuss NGA's open source strategy and the agency's cultural pivot toward a more unclassified future.</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>10:20</time>
+    <room_id>3</room_id>
+    <title>Break</title>
+    <teaser>Refreshments served in the Kogod Lobby outside the session rooms.</teaser>
+    <body><![CDATA[<p>Refreshments served in the Kogod Lobby outside the session rooms</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>10:50</time>
+    <room_id>1</room_id>
+    <title>Open source inspired workflows for open (and closed) geospatial data</title>
+    <teaser>Ben Balter, Government Evangelist at Github, speaks about how open source workflow can benefit government.</teaser>
+    <body><![CDATA[<p>
+Open source software is produced by distributed teams rarely in the same place at the same time, rarely working on the same thing at the same time, yet they consistently produce better results than their closed source and proprietary counterparts. A big part of their continued success is open source's unique workflow and tools. What would it look like to treat geospatial data with the same respect that open source developers treat their code? What if we took the tools and workflows of open source and used them to create collaborative geospatial tools and datasets, even if that data was ultimately never public?</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>10:50</time>
+    <room_id>2</room_id>
+    <title>Geospatial Big Data and Predictive Analytics</title>
+    <teaser>Abe Usher, CTO at HumanGeo, explains how government can benefit from analysis of public data.</teaser>
+    <body><![CDATA[<p> 
+      vitae,mount of geolocated information from automated sensors and publicly available sources continues to grow at an exponential rate.  This information, properly handled, will provide new opportunities for commercial industry and government.  During this talk Abe Usher, HumanGeo Chief Technology Officer, provides an overview of how publicly available information combined with new geospatial tools is enabling predictive analytics.</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>11:25</time>
+    <room_id>1</room_id>
+    <title>Mapping 'Big Data' with OpenGeo Suite</title>
+    <teaser>Ann Johnson, CEO from Boundless, discusses how the open source OpenGeo Suite can be used to derive benefits from big data in government.</teaser>
+    <body><![CDATA[
+<p>As the Federal government moves ever further into the world of SmallSats,
+full-motion video, social media, and volunteer geographic information,
+there is an increased need to handle geospatial 'big data'.  This talk
+will cover how Boundless has designed the OpenGeo Suite to handle the
+management, visualization, analysis and dissemination of geospatial big
+data in a world of shrinking budgets and reduced resources.</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>11:25</time>
+    <room_id>2</room_id>
+    <title>Introduction to GeoTrellis for Big, Fast, Raster Processing</title>
+    <teaser>Robert Cheetham, CEO at Azavea, will introduce and discuss examples of GeoTrellis, an open source technology for fast raster processing</teaser>
+    <body><![CDATA[<p>This talk will give an overview of the GeoTrellis framework; how it leverages features of Scala, Spark and other frameworks; and how it can be integrated with conventional web mapping tools to create apps that are more than just dots on a map. The talk will also give an overview of applications for online geoprocessing in several domains including: imagery, stormwater modeling, education games, infrastructure prioritization, climate change and transportation.</p>
+      ]]></body>
+  </session>
+<!-- ************************ LUNCH TIME ****************** -->
+  <session>
+    <time>12:00</time>
+    <room_id>3</room_id>
+    <title>Lunch</title>
+    <teaser>Lunch will be served in the Kogod Lobby outside the session rooms.</teaser>
+    <body><![CDATA[<p>Lunch will be served in the Kogod Lobby outside the session rooms.</p>
+      ]]></body>
+  </session>
+<!-- ************************ LUNCH TIME ****************** -->
+  <session>
+    <time>13:00</time>
+    <room_id>1</room_id>
+    <title>Decision Making Data: Building the Future of Government Technology</title>
+    <teaser>Santiago Giraldo, Civic Technologist at Cartodb, explains how the CartoDB platform can provide responsive insights for agile decision making in Government.</teaser>
+    <body><![CDATA[<p>Emerging and rapidly growing location intelligence technology has become an essential insight tool for the modern government. We are in the midst of a necessary shift in how we approach processes of evaluation and decision making in the ever expanding paradigm of government data. Technologies such as CartoDB are quickly reframing how we understand and approach the challenges faced by federal agencies. Real-time mapping, web-based data visualization, and fast, almost-instantly leverageable spatial analysis allows for agencies to quickly make important decisions effectively mitigating potential risks, increasing evaluation and response times, and allowing for a large degree of agility in processing information. Let's build the future of government location intelligence together.</p>
+      ]]></body>
+  </session>
+    <session>
+    <time>13:00</time>
+    <room_id>2</room_id>
+    <title>Building Streaming Low-latency Spatio-temporal Analytics with GeoMesa, Kafka, and Storm</title>
+    <teaser>Anthony Fox, Director, Data Science &amp; System Architecture at CCRi, describes the GeoMesa project.</teaser>
+    <body><![CDATA[<p>TBD</p>
+      ]]></body>
+  </session>
+
+  <session>
+    <time>13:25</time>
+    <room_id>1</room_id>
+    <title>GeoGig: Innovate Your Workflows for Spatial Data Collaboration</title>
+    <teaser>Tom Ingold, VP of Product at Boundless introduces GeoGig, a powerful tool for enabling collaborative spatial data workflows.</teaser>
+    <body><![CDATA[
+<p>GeoGig is a LocationTech project that enables new and innovative workflows for spatial data collaboration with decentralized management of versioned data. This session will show concepts and lessons learned from current trends in software development and how they can be applied to management of geospatial information.</p> 
+
+<p>Everyone working with geospatial data eventually faces the problem of managing their information and assets as they change over time. Versioning of geospatial data has been an issue for any organization where more than one individual is contributing to or manipulating the data. Questions like, “Who performed that change?” and “When was that data changed?” become hard to answer, while traditional versioning approaches are cumbersome to use and utilize old paradigms. In this presentation we will look how GeoGig allows online, collaborative development of spatial data content, increasing productivity via multi-user geospatial versioned editing. 
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:25</time>
+    <room_id>2</room_id>
+    <title>GeoWave: Geospatial Indexing in Accumulo</title>
+    <teaser>Whitney O'Meara, Software Engineer at RadiantBlue, describes the GeoWave project.</teaser>
+    <body><![CDATA[<p>GeoWave is an open source software project developed at the National Geospatial-Intelligence Agency (NGA) in collaboration with RadiantBlue Technologies and Booz Allen Hamilton.  GeoWave leverages the scalability of a distributed key-value store for effective storage, retrieval, and analysis of massive geospatial datasets.  It currently does so by providing plugins to connect GeoTools, PDAL, and Mapnik to an Accumulo based data store.  Leveraging this architecture, GeoWave is able to provide Hadoop input and output formats for distributed processing and analysis of geospatial data, and is able to enable sharing and visualization of massive geospatial datasets using Mapnik or GeoServer.  GeoWave intends to bridge gaps between popular geospatial projects, the realm of distributed key-value stores, and distributed processing frameworks with continued integration efforts on the roadmap.</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:50</time>
+    <room_id>1</room_id>
+    <title>Observing the Whole Earth, Every Day</title>
+    <teaser>Rich Leshner from Planet Labs will discuss the company's mission to image the entire earth, every day.</teaser>
+    <body><![CDATA[
+<p>Rich Leshner from Planet Labs will discuss the company's mission to put in excess of one hundred small satellites in orbit to image the whole Earth, every day, and to make what we see and what we learn about change on our planet visible, accessible, and actionable.</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:50</time>
+    <room_id>2</room_id>
+    <title>Geospatial Big Data</title>
+    <teaser>Mark Giaconia, Director of Insight Platform Solutions at DigitalGlobe details Big Data initiatives at DigitalGlobe.</teaser>
+    <body><![CDATA[
+<p>DigitalGlobe has a 90 PB archive of high resolution, multispectral satellite imagery. This imagery can produce insights that help solve many problems, but in order to solve big problems you need a platform that can run algorithms and supporting image enrichment at scale. My briefing will talk about some of the challenges with GBD, as well as a description of our platform capability.</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:15</time>
+    <room_id>1</room_id>
+    <title>Embracing Open Source for Real -- Deploying, Enhancing, and Developing OSS in the Federal Government</title>
+    <teaser>Ben Tuttle, Project Scientist at NGA shares experiences developing and using open source technologies at a federal agency.</teaser>
+    <body><![CDATA[<p>Open source software has long been used by government agencies with great
+success and significant cost and capability benefits. However, it has also
+long been misunderstood and deploying, enhancing or developing OSS has been
+a significant challenge at times. Recently the NGA has begun to fully
+embrace OSS and break down some of these barriers leading to increased
+efficiencies, improved capabilities, and better engagement with the OSS
+community. We will talk about how this happened, the benefits to the
+government and the OSS community, as well as the agency GitHub account where
+government developed code is being released back to the public under OSS
+licenses.  </p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:15</time>
+    <room_id>2</room_id>
+    <title>Present and future for Mapstory</title>
+    <teaser>Chris Tucker, CEO and Chairman of The MapStory Foundation provides an update on the current state and future of MapStory.</teaser>
+    <body><![CDATA[Chris Tucker, CEO and Chairman of The MapStory Foundation provides an update on the current state and future of MapStory.]]></body>
+  </session>
+  <session>
+    <time>14:40</time>
+    <room_id>1</room_id>
+    <title>Panel Discussion: State of Mapping in Government</title>
+    <teaser>Panelists from USGS, Department of Agriculture, Department of State, and Peace Corps discuss the current state of mapping in Government.</teaser>
+    <body><![CDATA[
+<p>The panel will discuss what digital geo capabilities are needed across government agencies. In government, we have people who are at the top of the field often in agencies like NASA, NOAA, and USGS, and others who are not using digital technologies at that level, creating an uneven geo workforce. How can the federal government support upgrading our mapping and digital geo capabilities across the federal government? What are the options, challenges, and key priority projects that should be considered?</p>
+<p>Panelists:</p>
+<ul>
+<li>Sophia B Liu (U.S. Geological Survey, Mendenhall Postdoc Fellow) - Moderator</li>
+<li>Stephen Lowe (U.S. Department of Agriculture Geospatial Information Officer)</li>
+<li>Tom Gertin (State Department, GIS Specialist)</li>
+<li>Courtney Clark (Peace Corps, Innovation Fellow)</li>
+</ul>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>15:20</time>
+    <room_id>3</room_id>
+    <title>Break</title>
+    <teaser>Refreshments served in the Kogod Lobby outside the session rooms.</teaser>
+    <body><![CDATA[<p>Refreshments served in the Kogod Lobby outside the session rooms</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>15:35</time>
+    <room_id>1</room_id>
+    <title>Lightning talks</title>
+    <teaser>A series of short talks on important topics and initiatives.</teaser>
+    <body><![CDATA[
+<p>Do you have something important to share? Do a lightning talk at FedGeoDay to spread the word. Contact andrea dot ross at eclipse at org.</p> 
+<ul>
+  <li><strong>How Open Methods are Changing What You Pay for Geospatial Services</strong> by Eddie Pickle, Managing Director Open Source Programs at Radiant Blue</li>
+  <li><strong>Sparkifying MapAlgebra</strong> by Ryan Smith, US Government Tech Solutions Team</li>
+  <li><strong>Hootenanny, Creating an Open Source Conflation Engine</strong> by Josh Sisskind, Staff Software Development Engineer at DigitalGlobe</li>
+  <li><strong>PostgreSQL 9.5, Features and Certification</strong> by Stephen Frost, CTO at Crunchy Data Solutions</li>
+  <li><strong>You Too Can Do Vector Tiles with GeoServer</strong> by Tom Ingold, VP of Product at Boundless</li>
+</ul>
+      ]]></body>
+  </session>
+<!-- ************************ RECEPTION ****************** -->
+  <session>
+    <time>17:00</time>
+    <room_id>4</room_id>
+    <title>Reception</title>
+    <teaser>Join us for a drink and opportunity to network.</teaser>
+    <body><![CDATA[<p>Join us for a drink and opportunity to network after the conference. We'll provide coordinates soon.</p>
+      ]]></body>
+  </session>
+<!-- ************************ RECEPTION ****************** -->
+
+</schedule>
