@@ -1002,5 +1002,5 @@ FileETag None
 # ----------------------------------------------------------------------
 
 RewriteEngine On
-RewriteRule ^$ http://fedgeoday.org/2015 [L]
+RewriteRule ^$ http://fedgeoday.org/2016 [L]
 
