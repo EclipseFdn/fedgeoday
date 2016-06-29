@@ -22,7 +22,7 @@ require_once '../tpl/top.tpl.php';
 
 <h1>Community Code of Conduct</h1>
 
-<p>This event is a collaborative event organized by the Eclipse Foundation on behalf of LocationTech. We welcome you to FedGeoDay 2016.</p>
+<p>This event is a collaborative event organized by the <a href="http://eclipse.org">Eclipse Foundation</a> on behalf of <a href="http://locatontech.org">LocationTech</a>. We welcome you to FedGeoDay 2016.</p>
 
 <p>This is a large, diverse, and welcoming community that we hope you feel great about participating in. No matter how you identify yourself, or how others perceive you, you are welcome.</p>
 
@@ -40,7 +40,7 @@ require_once '../tpl/top.tpl.php';
 
 <p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing the Eclipse Management Organization: codeofconduct@eclipse.org.</p>
 
-<p>This Code of Conduct is adapted from the Contributor Covenant (http://contributor-covenant.org), version 1.1.0, available at http://contributor-covenant.org/version/1/1/0/</p>
+<p>This Code of Conduct is adapted from the Contributor Covenant (<a href="http://contributor-covenant.org">http://contributor-covenant.org</a>), version 1.1.0, available at <a href="http://contributor-covenant.org/version/1/1/0/">http://contributor-covenant.org/version/1/1/0/</a></p>
 
 
 <?
