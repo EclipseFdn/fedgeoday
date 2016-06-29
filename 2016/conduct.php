@@ -19,37 +19,29 @@ require_once '../tpl/head.tpl.php';
 require_once '../tpl/top.tpl.php';
 ?>
 
-<h1>Conference Code of Conduct</h1>
 
-<p>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.</p>
+<h1>Community Code of Conduct</h1>
 
-<h2>Need Help?</h2>
+<p>This event is a collaborative event organized by the Eclipse Foundation on behalf of LocationTech. We welcome you to FedGeoDay 2016.</p>
 
-<p>You have our contact details in the emails we've sent.</p>
+<p>This is a large, diverse, and welcoming community that we hope you feel great about participating in. No matter how you identify yourself, or how others perceive you, you are welcome.</p>
 
-<h2>The Quick Version</h2>
+<p>Version 1.0, June 23, 2015</p>
 
-<p>Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.</p>
+<p>As members of the Eclipse community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting code reviews, pull requests, patches, and other activities.</p>
 
-<h2>The Less Quick Version</h2>
+<p>We are committed to making participation in the Eclipse community a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion or analogous grounds.</p>
 
-<p>Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.</p>
+<p>Examples of unacceptable behavior by participants include the use of sexual language or imagery, derogatory comments or personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.</p>
 
-<p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
+<p>Eclipse Foundation staff have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. Project leaders, committers and contributors who do not follow the Code of Conduct may be removed from the project.</p>
 
-<p>Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.</p>
+<p>This code of conduct applies within Eclipse project spaces, or in public spaces when an individual is representing the project or the Eclipse community.</p>
 
-<p>If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.</p>
+<p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing the Eclipse Management Organization: codeofconduct@eclipse.org.</p>
 
-<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded t-shirts.</p>
+<p>This Code of Conduct is adapted from the Contributor Covenant (http://contributor-covenant.org), version 1.1.0, available at http://contributor-covenant.org/version/1/1/0/</p>
 
-<p>Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.</p>
-
-<p>We expect participants to follow these rules at conference and workshop venues and conference-related social events.</p>
-
-<p>Original source and credit: <a href="http://2012.jsconf.us/#/about">http://2012.jsconf.us/#/about</a> &amp; <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a>. Please help by translating or improving: <a href="http://github.com/leftlogic/confcodeofconduct.com">http://github.com/leftlogic/confcodeofconduct.com</a></p>
-
-<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a></p>
 
 <?
 require_once '../tpl/footer.tpl.php';
