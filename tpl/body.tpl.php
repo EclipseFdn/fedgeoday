@@ -111,7 +111,7 @@ if (!defined('ABSPATH')) exit;
             </a>
           </p>
         <?php else:?>
-          <div class="alert alert-warning" role="alert">Stay tuned, we're crafting the agenda and will post it soon.</div>
+          <div class="alert alert-warning" role="alert">Stay tuned, we're crafting the agenda once the CfP closes, and will post it ASAP.</div>
         <?php endif;?>
       </div>
     </div>
