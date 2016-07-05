@@ -25,6 +25,12 @@
     <title>RadiantBlue</title>
     <url>http://radiantblue.com/</url>
   </sponsor>
+  <sponsor>
+    <src>../images/sponsors/redcross.png</src>
+    <title>Red Cross</title>
+    <url>http://www.redcross.org/</url>
+  </sponsor>
+  
 <!--
   <sponsor>
     <src>../images/sponsors/mapbox.png</src>
