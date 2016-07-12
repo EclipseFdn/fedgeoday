@@ -30,6 +30,11 @@
     <title>Red Cross</title>
     <url>http://www.redcross.org/</url>
   </sponsor>
+  <sponsor>
+    <src>../images/sponsors/Cesium.jpg
+    <title>Cesium</title>
+    <url>http://cesiumjs.org/</url>
+  </sponsor>
   
 <!--
   <sponsor>
