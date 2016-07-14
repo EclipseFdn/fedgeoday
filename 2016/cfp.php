@@ -26,6 +26,10 @@ require_once '../tpl/top.tpl.php';
 
 <p>The conference consists of one day of sessions across 3 session rooms. Standard talks are 25 minutes long. Short talks are 15 minutes long. Lightning talks are 5 minutes long.</p>
 
+<h2>Deadlines</h2>
+
+<p>The deadline to submit is August 5, 2016</p>
+
 <h2>Conference Topics</h2>
 
 <p>Below is a list of topics that we think attendees would be excited to hear about for session presentations. The list is certainly not exhaustive and other interesting topics will be considered under the "Other Cool Stuff" category. In general, use cases will be preferred over pure technology talks. Emerging technology &amp; technique talks are very welcome.</p>
