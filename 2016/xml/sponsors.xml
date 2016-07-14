@@ -10,6 +10,11 @@
     <title>Boundless</title>
     <url>http://www.boundlessgeo.com/</url>
   </sponsor>
+  <sponsor>
+    <src>../images/sponsors/Redhat.png</src>
+    <title>Redhat</title>
+    <url>http://www.redhat.com/</url>
+  </sponsor>
 <!--
   <sponsor>
     <src>../images/sponsors/cartodb.png</src>
