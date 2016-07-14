@@ -57,6 +57,9 @@ require_once '../tpl/top.tpl.php';
 <p>Anything you think is very interesting and worth talking about.</p>
 
 
+<a href="http://goo.gl/forms/UDpxUvyqmYBiv60r2" class="btn btn-secondary">Submit a Proposal NOW!</a>
+
+
 <?
 require_once '../tpl/footer.tpl.php';
 ?>
