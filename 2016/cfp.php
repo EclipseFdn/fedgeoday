@@ -63,6 +63,8 @@ require_once '../tpl/top.tpl.php';
 
 <a href="http://goo.gl/forms/UDpxUvyqmYBiv60r2" class="btn btn-secondary">Submit a Proposal NOW!</a>
 
+<p>&nbsp;</p>
+
 
 <?
 require_once '../tpl/footer.tpl.php';
