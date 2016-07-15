@@ -22,6 +22,8 @@ require_once '../tpl/top.tpl.php';
 
 <h1>Call For Proposals</h1>
 
+<a href="http://goo.gl/forms/UDpxUvyqmYBiv60r2" class="btn btn-secondary">Submit a Proposal NOW!</a>
+
 <h2>Format</h2>
 
 <p>The conference consists of one day of sessions across 3 session rooms. Standard talks are 25 minutes long. Short talks are 15 minutes long. Lightning talks are 5 minutes long.</p>
