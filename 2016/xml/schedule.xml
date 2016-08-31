@@ -2,7 +2,7 @@
 <schedule>
 <!-- ************************ OPENING PLENARY ****************** -->
   <session>
-    <time>9:00</time>
+    <time>8:30</time>
     <room_id>3</room_id>
     <title>Registration</title>
     <teaser>Pick up your nametag at the registration desk.</teaser>
@@ -13,22 +13,22 @@
     <time>9:30</time>
     <room_id>1</room_id>
     <title>Welcome</title>
-    <teaser>MC Chris Tucker helps us kick off FedGeoDay 2015.</teaser>
-    <body><![CDATA[<p>A brief welcome to FedGeoDay 2015</p> 
+    <teaser>Kick off FedGeoDay 2016.</teaser>
+    <body><![CDATA[<p>A brief welcome to FedGeoDay 2016</p> 
       ]]></body>
   </session>
 <!-- ************************ OPENING PLENARY ****************** -->
   <session>
-    <time>9:45</time>
+    <time>9:40</time>
     <room_id>1</room_id>
-    <title>Keynote: An Intelligence Agency in Transition: Succeeding in the Open</title>
-    <teaser>Chris Rasmussen, Open Source Software Development Lead at NGA, shares NGA's open source strategy</teaser>
-    <body><![CDATA[<p>NGA has open sourced millions of dollars of code to GitHub over the last year. The software ranges from geospatial big data systems to source code for first responder apps.  Mr. Rasmussen will discuss NGA's open source strategy and the agency's cultural pivot toward a more unclassified future.</p>
+    <title>Keynote: TBD</title>
+    <teaser>Ray Bauer, Innovation Lead at NGA, TBD</teaser>
+    <body><![CDATA[<p>TBD</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>10:20</time>
+    <time>10:30</time>
     <room_id>3</room_id>
     <title>Break</title>
     <teaser>Refreshments served in the Kogod Lobby outside the session rooms.</teaser>
@@ -37,21 +37,24 @@
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>10:50</time>
+    <time>10:45</time>
     <room_id>1</room_id>
-    <title>Open source inspired workflows for open (and closed) geospatial data</title>
-    <teaser>Ben Balter, Government Evangelist at Github, speaks about how open source workflow can benefit government.</teaser>
+    <title>Open Publishing: How the FCC Empowered Map Publishing with Open Source Technologies and Standards</title>
+    <teaser>Allison Baker &amp; Brian Funk, TBD teaser.</teaser>
     <body><![CDATA[<p>
-Open source software is produced by distributed teams rarely in the same place at the same time, rarely working on the same thing at the same time, yet they consistently produce better results than their closed source and proprietary counterparts. A big part of their continued success is open source's unique workflow and tools. What would it look like to treat geospatial data with the same respect that open source developers treat their code? What if we took the tools and workflows of open source and used them to create collaborative geospatial tools and datasets, even if that data was ultimately never public?</p>
+Allison Baker, product owner for this effort, drove the redesign of FCC Maps with an emphasis on rapid publication. Brian Funk designed the architecture for FCC Maps and led the development team. Together, we will present an overview of the FCC’s new map publishing platform empowering users by integrating open source technologies (Drupal, GeoServer, Node.js) with open standards (OGC).</p>
       ]]></body>
   </session>
   <session>
-    <time>10:50</time>
+    <time>10:45</time>
     <room_id>2</room_id>
-    <title>Geospatial Big Data and Predictive Analytics</title>
-    <teaser>Abe Usher, CTO at HumanGeo, explains how government can benefit from analysis of public data.</teaser>
+    <title>Understanding Open Source</title>
+    <teaser>Jody Garnett, Community Lead at Boundless, explains how government can benefit from participation in open source.</teaser>
     <body><![CDATA[<p> 
-      vitae,mount of geolocated information from automated sensors and publicly available sources continues to grow at an exponential rate.  This information, properly handled, will provide new opportunities for commercial industry and government.  During this talk Abe Usher, HumanGeo Chief Technology Officer, provides an overview of how publicly available information combined with new geospatial tools is enabling predictive analytics.</p>
+      Open source is gleefully rewriting the rules of IT development at all levels of industry and government. Adoption of open source in government is well underway, with success stories  illustrating the benefits. This decade we are going further - fostering a healthy, sustainable, working relationship between government and open source:
+* This presentation digs into the flexibility of open source licensing and how government organizations can meet the challenges of developing with open source. 
+* We will look at the advantages of government participation in open source at the project, institutional, and foundation level. 
+Attend this talk to understand how your organization cannot only benefit from open source, but be open source.</p>
       ]]></body>
   </session>
   <session>
