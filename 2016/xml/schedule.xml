@@ -6,7 +6,7 @@
     <room_id>3</room_id>
     <title>Registration</title>
     <teaser>Pick up your nametag at the registration desk.</teaser>
-    <body><![CDATA[<p>Pick up your nametag at the registration desk.</p> 
+    <body><![CDATA[<p>Pick up your nametag at the registration desk by the Hall of Service.</p> 
       ]]></body>
   </session>
   <session>
@@ -22,8 +22,10 @@
     <time>9:40</time>
     <room_id>1</room_id>
     <title>Keynote: TBD</title>
-    <teaser>Ray Bauer, Innovation Lead at NGA, TBD</teaser>
-    <body><![CDATA[<p>TBD</p>
+    <teaser>Ray Bauer, Innovation Lead at NGA, teaser TBD</teaser>
+    <body><![CDATA[<p>
+description TBD
+</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
@@ -31,8 +33,8 @@
     <time>10:30</time>
     <room_id>3</room_id>
     <title>Break</title>
-    <teaser>Refreshments served in the Kogod Lobby outside the session rooms.</teaser>
-    <body><![CDATA[<p>Refreshments served in the Kogod Lobby outside the session rooms</p>
+    <teaser>Refreshments served outside the hall of service.</teaser>
+    <body><![CDATA[<p>Refreshments served outside the hall of service</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
@@ -40,7 +42,7 @@
     <time>10:45</time>
     <room_id>1</room_id>
     <title>Open Publishing: How the FCC Empowered Map Publishing with Open Source Technologies and Standards</title>
-    <teaser>Allison Baker &amp; Brian Funk, TBD teaser.</teaser>
+    <teaser>Allison Baker &amp; Brian Funk, teaser TBD.</teaser>
     <body><![CDATA[<p>
 Allison Baker, product owner for this effort, drove the redesign of FCC Maps with an emphasis on rapid publication. Brian Funk designed the architecture for FCC Maps and led the development team. Together, we will present an overview of the FCC’s new map publishing platform empowering users by integrating open source technologies (Drupal, GeoServer, Node.js) with open standards (OGC).</p>
       ]]></body>
@@ -58,34 +60,40 @@ Attend this talk to understand how your organization cannot only benefit from op
       ]]></body>
   </session>
   <session>
-    <time>11:25</time>
+    <time>11:15</time>
     <room_id>1</room_id>
-    <title>Mapping 'Big Data' with OpenGeo Suite</title>
-    <teaser>Ann Johnson, CEO from Boundless, discusses how the open source OpenGeo Suite can be used to derive benefits from big data in government.</teaser>
-    <body><![CDATA[
-<p>As the Federal government moves ever further into the world of SmallSats,
-full-motion video, social media, and volunteer geographic information,
-there is an increased need to handle geospatial 'big data'.  This talk
-will cover how Boundless has designed the OpenGeo Suite to handle the
-management, visualization, analysis and dissemination of geospatial big
-data in a world of shrinking budgets and reduced resources.</p>
+    <title>Geography for HIV Epidemic Control: PEPFAR’s use of open source geospatial tools</title>
+    <teaser>Nate Heard &amp; Gina Sarfaty, teaser TBD</teaser>
+    <body><![CDATA[<p>
+The U.S. President's Emergency Plan for AIDS Relief (PEPFAR) is the U.S. Government initiative to help save the lives of those affected by HIV/AIDS around the world. PEPFAR has a data-driven focus that strategically aligns community and clinical services with targeted geographic areas to achieve a greater impact on the epidemic. Understanding spatial variation of HIV-affected populations and where PEPFAR supports service delivery is key to geographic prioritization.
+ 
+PEPFAR manages multiple data streams, including epidemiology, demography, program indicator and budget data. The spatial data infrastructure that enables analysts to map these data spans all 36 PEPFAR country and regional programs and includes geographic coordinates for most clinical sites. PEPFAR leverages this system for improved spatial targeting of HIV treatment and prevention services. As a result of the adoption of a geographically-informed, data-driven approach PEPFAR has set a target to support a total of 12.9 million people on life-saving anti-retroviral treatment by the end of 2017.
+ 
+This talk provides an overview of PEPFAR’s use of open source tools such as QGIS, GeoNode, and DATIM, an open source, web-based health information system that includes GIS. We’ll describe successes and challenges in our work to leverage geography for global HIV epidemic control.​
+</p>
       ]]></body>
   </session>
   <session>
-    <time>11:25</time>
+    <time>11:15</time>
     <room_id>2</room_id>
-    <title>Introduction to GeoTrellis for Big, Fast, Raster Processing</title>
-    <teaser>Robert Cheetham, CEO at Azavea, will introduce and discuss examples of GeoTrellis, an open source technology for fast raster processing</teaser>
-    <body><![CDATA[<p>This talk will give an overview of the GeoTrellis framework; how it leverages features of Scala, Spark and other frameworks; and how it can be integrated with conventional web mapping tools to create apps that are more than just dots on a map. The talk will also give an overview of applications for online geoprocessing in several domains including: imagery, stormwater modeling, education games, infrastructure prioritization, climate change and transportation.</p>
+    <title>Institutional engagement in an open mapping community</title>
+    <teaser>Dan Joseph, teaser TBD</teaser>
+    <body><![CDATA[<p>
+The American Red Cross, as a founding member of the Missing Maps initiative, is actively working to map 200 million of the world’s vulnerable people into OpenStreetMap (OSM) by 2021; creating open map data for anyone to access, use, and update. This past year, the activities included our biggest field effort to date: launching a mapping hub in West Africa and training local volunteers to field map over 5,000 villages in the border regions of Liberia, Guinea, and Sierra Leone.
+
+The remote areas in which Red Cross works are full of technical challenges: no connectivity, extremely poor roads, lack of electricity, dispersed volunteers, etc. A combination of high- and low-tech tools facilitate field mapping. Our preferred tool is an Android app. However, when conditions necessitate alternative methods we can deploy handheld GPS devices and paper-based mapping tools. Also, the American Red Cross has developed POSM, an offline server that facilitates field mapping in areas without an internet connection for upwards of a month.
+
+In addition to its own disaster response and internal program activities, the American Red Cross collaborates with US government entities such as MapGive and HIU, as well as the CDC. This talk will explore the how and why of American Red Cross’ commitment to open data, open source tools, and community engagement to map vulnerable communities around the world.
+</p>
       ]]></body>
   </session>
 <!-- ************************ LUNCH TIME ****************** -->
   <session>
-    <time>12:00</time>
+    <time>11:45</time>
     <room_id>3</room_id>
     <title>Lunch</title>
-    <teaser>Lunch will be served in the Kogod Lobby outside the session rooms.</teaser>
-    <body><![CDATA[<p>Lunch will be served in the Kogod Lobby outside the session rooms.</p>
+    <teaser>Lunch will be served outside the session rooms.</teaser>
+    <body><![CDATA[<p>Lunch will be served outside the hall of service. menu TBD</p>
       ]]></body>
   </session>
 <!-- ************************ LUNCH TIME ****************** -->
@@ -189,8 +197,8 @@ licenses.  </p>
     <time>15:20</time>
     <room_id>3</room_id>
     <title>Break</title>
-    <teaser>Refreshments served in the Kogod Lobby outside the session rooms.</teaser>
-    <body><![CDATA[<p>Refreshments served in the Kogod Lobby outside the session rooms</p>
+    <teaser>Refreshments served outside the hall of service.</teaser>
+    <body><![CDATA[<p>Refreshments served in the hall of service.</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
