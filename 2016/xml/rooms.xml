@@ -2,22 +2,22 @@
 <rooms>
   <room>
     <room_id>1</room_id>
-    <title>Main Theatre</title>
+    <title>Hall of Service</title>
     <color>#d1a42b</color>
   </room>
   <room>
     <room_id>2</room_id>
-    <title>Melton Rehearsal Hall</title>
+    <title>Board of Governors</title>
     <color>#415976</color>
   </room>
   <room>
     <room_id>3</room_id>
-    <title>Kogod Lobby</title>
+    <title>Hallway outside the Hall of Service</title>
     <color>#415976</color>
   </room>
   <room>
     <room_id>4</room_id>
-    <title>Hill Country at 410 7th St NW</title>
+    <title>TBD</title>
     <color>#415976</color>
   </room>
 </rooms>
