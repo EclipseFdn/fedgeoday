@@ -171,68 +171,49 @@ Data processing and visualization is a challenging aspect of modern intelligence
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>14:15</time>
+    <time>14:30</time>
     <room_id>1</room_id>
-    <title>Embracing Open Source for Real -- Deploying, Enhancing, and Developing OSS in the Federal Government</title>
-    <teaser>Ben Tuttle, Project Scientist at NGA shares experiences developing and using open source technologies at a federal agency.</teaser>
-    <body><![CDATA[<p>Open source software has long been used by government agencies with great
-success and significant cost and capability benefits. However, it has also
-long been misunderstood and deploying, enhancing or developing OSS has been
-a significant challenge at times. Recently the NGA has begun to fully
-embrace OSS and break down some of these barriers leading to increased
-efficiencies, improved capabilities, and better engagement with the OSS
-community. We will talk about how this happened, the benefits to the
-government and the OSS community, as well as the agency GitHub account where
-government developed code is being released back to the public under OSS
-licenses.  </p>
+    <title>How many people are there in the world?</title>
+    <teaser>Tom Fitzwater, U.S. Census Bureau, teaser TBD</teaser>
+    <body><![CDATA[<p>
+This question may seem straightforward. However, estimating the world’s population means reconciling many data sources (including geospatial) and developing methods to model the characteristics of hundreds of diverse societies. More challenges arise when estimating population for a specific location, such as a province, city, or neighborhood. Only a few organizations—including the Census Bureau—are attempting to find these answers.
+</p>
       ]]></body>
   </session>
   <session>
-    <time>14:15</time>
+    <time>14:30</time>
     <room_id>2</room_id>
-    <title>Present and future for Mapstory</title>
-    <teaser>Chris Tucker, CEO and Chairman of The MapStory Foundation provides an update on the current state and future of MapStory.</teaser>
-    <body><![CDATA[Chris Tucker, CEO and Chairman of The MapStory Foundation provides an update on the current state and future of MapStory.]]></body>
+    <title>Cesium 3D Tiles: An open specification for streaming massive 3D geospatial scenes</title>
+    <teaser>Matthew Amato, Software Architect at AGI, teaser TBD</teaser>
+    <body><![CDATA[<p>
+3D Tiles is an open specification optimized for streaming and rendering massive heterogeneous geospatial datasets in 3D, including buildings, trees, point clouds, vector data, and terrain. 3D Tiles is being used in city governments, commercial apps, and being actively explored by federal governments around the world.
+
+This talk will discuss:
+
+* Why traditional 2D specifications don't translate well to 3D.
+* How 3D Tiles provides flexibility and performance for diverse 3D use cases and how data-driven styling enables visualization of millions of 3D features without loss of information or interactivity.
+* The state of the 3D Tiles ecosystem, including the open-source Cesium implementation, live demos, and how 3D Tiles is being used throughout a variety of industries.
+
+Recently submitted to the OGC community standard process, 3D Tiles brings techniques from graphics research, the movie industry, and the game industry to world-scale geospatial. Come learn how 3D Tiles is helping revolutionize streaming of massive heterogeneous geospatial datasets through open development and open specifications.
+</p>
+    ]]></body>
   </session>
   <session>
-    <time>14:40</time>
+    <time>15:30</time>
     <room_id>1</room_id>
-    <title>Panel Discussion: State of Mapping in Government</title>
-    <teaser>Panelists from USGS, Department of Agriculture, Department of State, and Peace Corps discuss the current state of mapping in Government.</teaser>
-    <body><![CDATA[
-<p>The panel will discuss what digital geo capabilities are needed across government agencies. In government, we have people who are at the top of the field often in agencies like NASA, NOAA, and USGS, and others who are not using digital technologies at that level, creating an uneven geo workforce. How can the federal government support upgrading our mapping and digital geo capabilities across the federal government? What are the options, challenges, and key priority projects that should be considered?</p>
-<p>Panelists:</p>
+    <title>Lightning talks!</title>
+    <teaser>Various speakers cover an assortment of topics in 5 minutes or less.</teaser>
+    <body><![CDATA[<p>
+<p>Speakers:</p>
 <ul>
-<li>Sophia B Liu (U.S. Geological Survey, Mendenhall Postdoc Fellow) - Moderator</li>
-<li>Stephen Lowe (U.S. Department of Agriculture Geospatial Information Officer)</li>
-<li>Tom Gertin (State Department, GIS Specialist)</li>
-<li>Courtney Clark (Peace Corps, Innovation Fellow)</li>
-</ul>
-      ]]></body>
-  </session>
-<!-- ************************ BREAK TIME ****************** -->
-  <session>
-    <time>15:20</time>
-    <room_id>3</room_id>
-    <title>Break</title>
-    <teaser>Refreshments served outside the hall of service.</teaser>
-    <body><![CDATA[<p>Refreshments served in the hall of service.</p>
-      ]]></body>
-  </session>
-<!-- ************************ BREAK TIME ****************** -->
-  <session>
-    <time>15:35</time>
-    <room_id>1</room_id>
-    <title>Lightning talks</title>
-    <teaser>A series of short talks on important topics and initiatives.</teaser>
-    <body><![CDATA[
-<p>Do you have something important to share? Do a lightning talk at FedGeoDay to spread the word. Contact andrea dot ross at eclipse at org.</p> 
-<ul>
-  <li><strong>How Open Methods are Changing What You Pay for Geospatial Services</strong> by Eddie Pickle, Managing Director Open Source Programs at Radiant Blue</li>
-  <li><strong>Sparkifying MapAlgebra</strong> by Ryan Smith, US Government Tech Solutions Team</li>
-  <li><strong>Hootenanny, Creating an Open Source Conflation Engine</strong> by Josh Sisskind, Staff Software Development Engineer at DigitalGlobe</li>
-  <li><strong>PostgreSQL 9.5, Features and Certification</strong> by Stephen Frost, CTO at Crunchy Data Solutions</li>
-  <li><strong>You Too Can Do Vector Tiles with GeoServer</strong> by Tom Ingold, VP of Product at Boundless</li>
+  <li>Daniel J. Dufour, First Draft GIS - Accelerating Map Making with Artificial Intelligence</li>
+  <li>Mike Botts, Botts Innovative Research / OpenSensorHub - OpenSensorHub: Open source integration of sensors, actuators, and processes</li>
+  <li>Annie Mejaes, U.S. Environmental Protection Agency - An Automated, Open-Source Approach for Georeferencing Water Data</li>
+  <li>Howard Butler, Hobu, Inc. - Point Cloud Web Services with Greyhound and Entwine</li>
+  <li>Ryan Smith, DigitalGlobe - Leveraging Data Science Notebooks to Run Global Scale Terrain Analytics</li>
+  <li>Joshua S Campbell, Sand Hill Geographic - EventKit: A new toolkit for geospatial data provisioning and deployment</li>
+  <li>Katie Baynes, NASA Earth Science Data and Information System - Using NASA's Satellite Imagery for Science and Profit</li>
+  <li>Christopher Tucker, MapStory - Empowering collaboration through versioned editing on change over time</li>
 </ul>
       ]]></body>
   </session>
@@ -241,8 +222,8 @@ licenses.  </p>
     <time>17:00</time>
     <room_id>4</room_id>
     <title>Reception</title>
-    <teaser>Join us for a drink and opportunity to network.</teaser>
-    <body><![CDATA[<p>Join us for a drink and opportunity to network after the conference. We'll provide coordinates soon.</p>
+    <teaser>Join us for a reception and opportunity to network.</teaser>
+    <body><![CDATA[<p>Join us for a reception and opportunity to network after the conference.</p>
       ]]></body>
   </session>
 <!-- ************************ RECEPTION ****************** -->
