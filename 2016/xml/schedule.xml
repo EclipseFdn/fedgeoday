@@ -199,6 +199,55 @@ Recently submitted to the OGC community standard process, 3D Tiles brings techni
     ]]></body>
   </session>
   <session>
+    <time>14:50</time>
+    <room_id>1</room_id>
+    <title>The USDOT National Address Database Pilot Study and Use of PostGIS</title>
+    <teaser>Michael Terner and Steve Lewis, AppGeo and US.  Dept. of Transportation, teaser TBD</teaser>
+    <body><![CDATA[<p>
+The USDOT has been working actively to help foster the creation of a National Address Database (NAD) and recently completed a pilot project that examined key issues and tested the technical and organizational approaches that would be required for a full national effort. This presentation will provide an overview of the findings of the study and include a description of the project's use of PostGIS for housing the pilot database which contains several million address records from a variety of state and county sources. The creation of an NAD fundamentally involves the aggregation of many data sets that originate from address authorities at local levels of government and from tribal authorities and thus data sharing agreements and open data considerations will also be discussed.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:50</time>
+    <room_id>2</room_id>
+    <title>NASAS WorldWind Spatial Visualization</title>
+    <teaser>Zach Glueckert, NASA WorldWind, teaser TBD</teaser>
+    <body><![CDATA[<p>
+In 2002, NASA engineered the first open source virtual globe. Today there are versions in Java, Android and JavaScript. Measured by both U.S. Gov't use, the international community and industry, WorldWind is the most successful technology ever engineered by NASA, effectively spurring innovation with spatial data. We will describe how the U.S. Gov't community and others are currently using WorldWind to manage their operations. 
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>15:10</time>
+    <room_id>1</room_id>
+    <title>Open Source Technologies for Sharing Water Sensor Data</title>
+    <teaser>Dwane Young, U.S. Environmental Protection Agency, teaser TBD</teaser>
+    <body><![CDATA[<p>
+Sensors are getting more advanced and accurate, with increasing capability to measure new parameters.  At the same time, efforts are under way to make some of these new sensors more accessible by reducing the cost.  This combination puts us on the precipice of a proliferation of water sensors.  This then raises the question:  What do we do with all that data?
+This presentation will outline the vision for how we can develop a national data sharing network for sensor data.  This network would be integrated across federal, state, tribal, local, and academic data owners.  The network would promote the use of common standards for data sharing, provide mechanisms for registering new sensors, define sensor metadata requirements, be integrated with sample data in the Water Quality Portal, and be integrated with the stream network (National Hydrography Dataset) to allow discovery and navigation of the data via the stream network.
+This network uses Open Geospatial Consortium Data Standards for sharing and communicating the data and is using open source technology for displaying and managing the data.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>15:10</time>
+    <room_id>2</room_id>
+    <title>Interactive Visualization of Satellite and Weather Model Data Online Using CesiumJS</title>
+    <teaser>Matthew Lammers, NASA Goddard/KBRwyle, teaser TBD</teaser>
+    <body><![CDATA[<p>
+Geospatial data, and satellite/weather model data specifically, benefit from being visualized on and above a three-dimensional surface. The open-source framework CesiumJS serves as a capable and well-maintained platform upon which these types of information can effectively be displayed.
+
+This presentation will describe the technology behind three products developed as part of the NASA Precipitation Processing System (PPS) STORM website. The first is an interactive demo that uses NOAA Hurricane WRF weather model data to visualize how Super Typhoon Nepartak was expected to interact with the island of Taiwan. Using three-dimensional reflectivity information, the full structure of the tropical cyclone is visible, with the ability to look at regions of higher intensity and to step through time in three-hour intervals.
+
+The two NASA PPS STORM products take data from the Global Precipitation Mission (GPM) satellite, among others, and display them in compelling interactive ways. GPM Near Real Time Viewer (GPMNRTView) enables the display of numerous variables retrieved from both primary instruments on the satellite as soon as the data are available. Brightness temperature, precipitation rate, and precipitation type are among the parameters that can be animated across the satellite's path within 30 minutes of overflight.
+
+STORM Virtual Globe (STORM VG) takes archival precipitation data from several satellites and makes it available on a three-dimensional globe. Using the STORM data order interface, users can opt to display information from a single orbit or aggregated over an entire day. All of the data points can be moused-over for information about the raw values.
+</p>
+      ]]></body>
+  </session>
+
+  <session>
     <time>15:30</time>
     <room_id>1</room_id>
     <title>Lightning talks!</title>
