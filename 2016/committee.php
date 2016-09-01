@@ -24,13 +24,13 @@ require_once '../tpl/top.tpl.php';
 
 <p>The conference would not happen without the efforts of our wonderful team. Please help us thank them!</p>
 
-<p>Table with bios and pictures TBD</p>
 
 <table style="width:100%">
   <tr style="vertical-align: top;">
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Cozzi.jpg">
       <p><strong>Patrick Cozzi</strong></p>
+      <p>Patrick Cozzi is our program chair for 2016 and led the team for program selection.
       <p>bio goes here</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
