@@ -26,6 +26,13 @@ require_once '../tpl/top.tpl.php';
 
 <p>Table with bios and pictures TBD</p>
 
+<table>
+  <tr>
+    <td>Patrick Cozzi<image src="../images/committee/Cozzi.jpg" /><p>bio goes here</p></td>
+    <td>Liz Lyon<image src="../images/committee/Lyon.jpg" /><p>bio goes here</p></td>
+  </tr>
+<table>
+
 
 <?
 require_once '../tpl/footer.tpl.php';
