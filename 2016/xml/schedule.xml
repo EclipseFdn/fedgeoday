@@ -154,12 +154,22 @@ LocationTech is a working group inside of Eclipse Foundation that a set of 4 ope
     <time>13:40</time>
     <room_id>2</room_id>
     <title>STRIDER - Spatio-temporal Retrieval and Introspection of Data and Embedded Relationships</title>
-    <teaser>Mark Giaconia, Director of Insight Platform Solutions at DigitalGlobe details Big Data initiatives at DigitalGlobe.</teaser>
+    <teaser>Ray Dos Santos and Michael Szaszy, US Army Corp of Engineers - Engineer Development and Research Center (ERDC) &amp; RGi, teaser TBD</teaser>
     <body><![CDATA[ <p>
 Data processing and visualization is a challenging aspect of modern intelligence systems.  As data volumes grow, the system must not only maintain a visual appeal, but also implement high selectivity, i.e., display only the least amount of the most relevant information. In this manner, the end user can focus on the task at hand rather than on the sifting of unimportant data. In this presentation, we discuss STRIDER, a system that performs document reasoning helpful on various domains. STRIDER features location-enabled text parsing, machine learning techniques, and storylines. Internally, STRIDER performs data ingestion on both structured and unstructured data sources, making it available for many purposes: plotting documents on a map, building associations among spatial entities, and displaying numerical analysis such as event correlation. In the visual interface, STRIDER uses a variety of multiple coordinated views, including maps, networks, and charts, to support data exploration and hypothesis testing workflows. In this presentation, we show how the analysis of complex data can be substantially enhanced through automation and mapping, and how it facilitates inferences on the underlying data points.
 </p>
       ]]></body>
   </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>14:00</time>
+    <room_id>3</room_id>
+    <title>Break</title>
+    <teaser>Refreshments served outside the hall of service.</teaser>
+    <body><![CDATA[<p>Refreshments served outside the hall of service</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
   <session>
     <time>14:15</time>
     <room_id>1</room_id>
