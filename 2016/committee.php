@@ -28,8 +28,9 @@ require_once '../tpl/top.tpl.php';
 
 <table>
   <tr>
-    <td>Patrick Cozzi<image src="../images/committee/Cozzi.jpg" /><p>bio goes here</p></td>
-    <td>Liz Lyon<image src="../images/committee/Lyon.jpg" /><p>bio goes here</p></td>
+    <td><p>Patrick Cozzi</p><image src="../images/committee/Cozzi.jpg" /><p>bio goes here</p></td>
+    <td><p>Liz Lyon<image</p> <image src="../images/committee/Lyon.jpg" /><p>bio goes here</p></td>
+    <td><p>Dale Kunce<image</p> <image src="../images/committee/Kunce.jpg" /><p>bio goes here</p></td>
   </tr>
 <table>
 
