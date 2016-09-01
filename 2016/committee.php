@@ -61,6 +61,23 @@ require_once '../tpl/top.tpl.php';
       <p>bio goes here</p>
     </td>
   </tr>
+  <tr style="vertical-align: top;">
+    <td style="vertical-align: top;width: 33%;" >
+      <image style="margin: 10px; float: left;" src="../images/committee/Pickle.jpg">
+      <p><strong>Eddie Pickle</strong></p>
+      <p>bio goes here</p>
+    </td>
+    <td style="vertical-align: top;width: 33%;" >
+      <image style="margin: 10px; float: left;" src="../images/committee/Callaway.jpg">
+      <p><strong>Jason Callaway</strong></p>
+      <p>bio goes here</p>
+    </td>
+    <td style="vertical-align: top;width: 33%;" >
+      <image style="margin: 10px; float: left;" src="../images/committee/Calamito.jpg">
+      <p><strong>Anthony Calamito</strong></p>
+      <p>bio goes here</p>
+    </td>
+  </tr>
 <table>
 
 
