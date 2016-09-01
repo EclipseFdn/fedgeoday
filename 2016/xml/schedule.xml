@@ -44,7 +44,9 @@ description TBD
     <title>Open Publishing: How the FCC Empowered Map Publishing with Open Source Technologies and Standards</title>
     <teaser>Allison Baker &amp; Brian Funk, teaser TBD.</teaser>
     <body><![CDATA[<p>
-Allison Baker, product owner for this effort, drove the redesign of FCC Maps with an emphasis on rapid publication. Brian Funk designed the architecture for FCC Maps and led the development team. Together, we will present an overview of the FCC’s new map publishing platform empowering users by integrating open source technologies (Drupal, GeoServer, Node.js) with open standards (OGC).</p>
+Allison Baker, product owner for this effort, drove the redesign of FCC Maps with an emphasis on rapid publication. Brian Funk designed the architecture for FCC Maps and led the development team. Together, we will present an overview of the FCC’s new map publishing platform empowering users by integrating open source technologies (Drupal, GeoServer, Node.js) with open standards (OGC).
+:w
+</p>
       ]]></body>
   </session>
   <session>
@@ -56,7 +58,8 @@ Allison Baker, product owner for this effort, drove the redesign of FCC Maps wit
       Open source is gleefully rewriting the rules of IT development at all levels of industry and government. Adoption of open source in government is well underway, with success stories  illustrating the benefits. This decade we are going further - fostering a healthy, sustainable, working relationship between government and open source:
 * This presentation digs into the flexibility of open source licensing and how government organizations can meet the challenges of developing with open source. 
 * We will look at the advantages of government participation in open source at the project, institutional, and foundation level. 
-Attend this talk to understand how your organization cannot only benefit from open source, but be open source.</p>
+Attend this talk to understand how your organization cannot only benefit from open source, but be open source.
+</p>
       ]]></body>
   </session>
   <session>
@@ -92,7 +95,7 @@ In addition to its own disaster response and internal program activities, the Am
     <time>11:45</time>
     <room_id>3</room_id>
     <title>Lunch</title>
-    <teaser>Lunch will be served outside the session rooms.</teaser>
+    <teaser>Lunch will be served outside the hall of service.</teaser>
     <body><![CDATA[<p>Lunch will be served outside the hall of service. menu TBD</p>
       ]]></body>
   </session>
@@ -118,18 +121,17 @@ RadiantBlue Technologies is developing an open-source-software-based system for 
   </session>
 
   <session>
-    <time>13:30</time>
+    <time>13:20</time>
     <room_id>1</room_id>
     <title>DoD and IC Geospatial Standards Compliance</title>
     <teaser>Jeffrey Bell - National GEOINT Officer for Standards, NGA, teaser TBD</teaser>
-    <body><![CDATA[
-<p>
+    <body><![CDATA[ <p>
 This session is a short talk covering the National System for Geospatial Intelligence (NSG) GEOINT Functional Manager Standards Assessment (GFMSA) Program.  The program, established by the National Geospatial-Intelligence Agency (NGA) as the Functional Manager for GEOINT Standards in the IC and DoD, provisions a GEOINT Standards compliance process that advances GEOINT interoperability, understand and sharing across the NSG in the area of data, services, sensors, and imagery.  The talk will cover the process as well as benefits and use cases for standards compliance and non-compliance.
 </p>
       ]]></body>
   </session>
   <session>
-    <time>13:30</time>
+    <time>13:20</time>
     <room_id>2</room_id>
     <title>Billions and Beyond: Analyzing and Visualizing Massive Datasets</title>
     <teaser>Rich Fecher, Software Developer, Radiant Blue teaser TBD</teaser>
@@ -139,21 +141,23 @@ Analysts face hard problems on a regular basis, but interacting with complete ge
       ]]></body>
   </session>
   <session>
-    <time>13:50</time>
+    <time>13:40</time>
     <room_id>1</room_id>
-    <title>Observing the Whole Earth, Every Day</title>
-    <teaser>Rich Leshner from Planet Labs will discuss the company's mission to image the entire earth, every day.</teaser>
-    <body><![CDATA[
-<p>Rich Leshner from Planet Labs will discuss the company's mission to put in excess of one hundred small satellites in orbit to image the whole Earth, every day, and to make what we see and what we learn about change on our planet visible, accessible, and actionable.</p>
+    <title>Geospatially Enable Your Hadoop, Accumulo, and Spark Applications with LocationTech Projects</title>
+    <teaser>Rob Emanuele, Technical Lead at Azavea, teaser TBD</teaser>
+    <body><![CDATA[ <p>
+LocationTech is a working group inside of Eclipse Foundation that a set of 4 open source projects dealing with large geospatial datasets call home: GeoTrellis, GeoWave, GeoMesa, and GeoJinni (sense a pattern?).
+</p>
       ]]></body>
   </session>
   <session>
-    <time>13:50</time>
+    <time>13:40</time>
     <room_id>2</room_id>
-    <title>Geospatial Big Data</title>
+    <title>STRIDER - Spatio-temporal Retrieval and Introspection of Data and Embedded Relationships</title>
     <teaser>Mark Giaconia, Director of Insight Platform Solutions at DigitalGlobe details Big Data initiatives at DigitalGlobe.</teaser>
-    <body><![CDATA[
-<p>DigitalGlobe has a 90 PB archive of high resolution, multispectral satellite imagery. This imagery can produce insights that help solve many problems, but in order to solve big problems you need a platform that can run algorithms and supporting image enrichment at scale. My briefing will talk about some of the challenges with GBD, as well as a description of our platform capability.</p>
+    <body><![CDATA[ <p>
+Data processing and visualization is a challenging aspect of modern intelligence systems.  As data volumes grow, the system must not only maintain a visual appeal, but also implement high selectivity, i.e., display only the least amount of the most relevant information. In this manner, the end user can focus on the task at hand rather than on the sifting of unimportant data. In this presentation, we discuss STRIDER, a system that performs document reasoning helpful on various domains. STRIDER features location-enabled text parsing, machine learning techniques, and storylines. Internally, STRIDER performs data ingestion on both structured and unstructured data sources, making it available for many purposes: plotting documents on a map, building associations among spatial entities, and displaying numerical analysis such as event correlation. In the visual interface, STRIDER uses a variety of multiple coordinated views, including maps, networks, and charts, to support data exploration and hypothesis testing workflows. In this presentation, we show how the analysis of complex data can be substantially enhanced through automation and mapping, and how it facilitates inferences on the underlying data points.
+</p>
       ]]></body>
   </session>
   <session>
