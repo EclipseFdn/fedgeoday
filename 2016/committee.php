@@ -26,11 +26,11 @@ require_once '../tpl/top.tpl.php';
 
 <p>Table with bios and pictures TBD</p>
 
-<table>
-  <tr valign="top">
-    <td valign="top"><p>Patrick Cozzi</p><image src="../images/committee/Cozzi.jpg" /><p>bio goes here</p></td>
-    <td valign="top"><p>Liz Lyon<image</p><image src="../images/committee/Lyon.jpg" /><p>bio goes here</p></td>
-    <td valign="top"><p>Dale Kunce<image</p><image src="../images/committee/Kunce.jpg" /><p>bio goes here</p></td>
+<table style="width:100%">
+  <tr>
+    <td text-align: left><p>Patrick Cozzi</p><image src="../images/committee/Cozzi.jpg"><p>bio goes here</p></td>
+    <td text-align: left><p>Liz Lyon<image</p><image src="../images/committee/Lyon.jpg"><p>bio goes here</p></td>
+    <td text-align: left><p>Dale Kunce<image</p><image src="../images/committee/Kunce.jpg"><p>bio goes here</p></td>
   </tr>
 <table>
 
