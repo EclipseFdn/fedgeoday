@@ -76,7 +76,7 @@ As the Cesium lead at AGI, Patrick contributes to all things Cesium, including r
     <td style="vertical-align: top;width: 33%; margin: 20px;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Calamito.jpg">
       <p><strong>Anthony Calamito</strong></p>
-      <p>bio goes here</p>
+      <p>Anthony is the Federal CTO for Boundless. In his role Anthony helps guide the overall technical strategy for the company and serves as a bridge between customers and engineering to ensure development tasks and enhancements are documented and properly meet customer requirements. In addition, Anthony helps to identify and qualify business development opportunities, as well as develop marketing materials in conjunction with overall marketing message framework. Anthony is also an adjunct instructor at George Mason University, and an American Geographical Society Fellow. Anthony received his Bachelors of Science in geography with a focus on GIS from The Pennsylvania State University.</p>
     </td>
   </tr>
 <table>
