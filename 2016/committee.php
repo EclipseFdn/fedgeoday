@@ -31,7 +31,8 @@ require_once '../tpl/top.tpl.php';
       <image style="margin: 10px; float: left;" src="../images/committee/Cozzi.jpg">
       <p><strong>Patrick Cozzi</strong></p>
       <p>Patrick Cozzi is our program chair for 2016 and led the team for program selection.
-      <p>bio goes here</p>
+      <p>Patrick started Cesium and focuses on the graphics engine, 3D formats, and community outreach.
+As the Cesium lead at AGI, Patrick contributes to all things Cesium, including roadmap planning, software development, recruitment, outreach, and business development. Patrick loves 3D graphics and is the editor of WebGL Insights, coeditor of OpenGL Insights, coauthor of 3D Engine Design for Virtual Globes, and a member of the editorial board for the Journal of Computer Graphics Techniques. He is co-creator of glTF and started 3D Tiles. Patrick is active in the graphics and open-source communities, develops open-standards with Khronos, frequently presents at conferences, and is on the organizing committee for FOSS4G NA 2016. He also teaches GPU Programming and Architecture at the University of Pennsylvania, where he earned a master’s degree in computer science.</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Lyon.jpg">
