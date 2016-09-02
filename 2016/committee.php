@@ -59,7 +59,7 @@ As the Cesium lead at AGI, Patrick contributes to all things Cesium, including r
     <td style="vertical-align: top;width: 33%; padding: 20px;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Sheets.jpg">
       <p><strong>Kari Sheets</strong></p>
-      <p>bio goes here</p>
+      <p>Kari Sheets leads the Geographic Information Systems Project of the National Weather Service's Integrated Dissemination Program as a Program and Management Analyst. During Kari's almost 15 year career at the National Oceanic and Atmospheric Administration (NOAA), Kari has worked for the National weather Service and the National Ocean Service.  Some of her roles have been a statistical numerical weather prediction guidance developer, GIS analyst and data scientist for statistical guidance variables, and lead for several NWS GIS collaboration projects. a Physical Scientist in the Office of Response (OR&R) and Restoration where she was the lead for the Environmental Response Management Application (ERMA®) New England and Atlantic regions and managed ERMA's migration to a cloud computing infrastructure.  Ms. Sheets holds a Bachelor of Science in Atmospheric Science from the University of Louisiana at Monroe and a Masters of Engineering in Geographic Information Systems from the University of Colorado at Denver.  Kari is also an alumni of the NOAA Leadership Competencies Development Program's seventh cohort.</p>
     </td>
   </tr>
   <tr style="vertical-align: top;">
