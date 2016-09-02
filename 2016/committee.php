@@ -36,7 +36,7 @@ require_once '../tpl/top.tpl.php';
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Lyon.jpg">
       <p><strong>Liz Lyon</strong></p>
-      <p>bio goes here</p>
+      <p>Elizabeth Lyon is an innovator and researcher active in the geospatial, social science and open-source communities. In Washington, DC she leads several community initiatives including the GeoDC community, the Geo-Northern Virginia Community, the MapStory community, and Women in GIS. She also volunteers internationally building geospatial solutions and supporting community development. Liz is currently  completing her PhD in Geospatial Sciences at George Mason University, where her research focuses on virtual and physical environments generation narrative that shape global urban forms and functions. She earned a Post-Graduate Certificate in Computational Social Science from George Mason University, a Master of Science in Geography from University of Illinois, Urbana-Champaign and a Bachelor of Arts in Economics and French from Augustana College (Rock Island, IL).</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Kunce.jpg">
