@@ -48,7 +48,7 @@ require_once '../tpl/top.tpl.php';
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Levine.jpg">
       <p><strong>Rachel Levine</strong></p>
-      <p>bio goes here</p>
+      <p>As a Program Associate with the GIS team, Rachel handles operational needs and keeps the team on track and in line. Before joining the Red Cross, she completed a master’s degree in Activism and Social Change at the University of Leeds’ geography department and handled operations at other non-profit organizations. She is also a UMaryland alumna and a huge fan of parks. When not attending mapathons, Rachel likes to travel and wander new cities.</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Tucker.jpg">
