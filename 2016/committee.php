@@ -70,7 +70,7 @@ require_once '../tpl/top.tpl.php';
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Callaway.jpg">
       <p><strong>Jason Callaway</strong></p>
-      <p>bio goes here</p>
+      <p>Jason Callaway is a senior solutions architect at Red Hat, specializing in secure cloud computing. In his current role, Jason is the technical lead working across the US Government agencies to help implement their cloud migration strategies. Prior to joining Red Hat, Jason deployed the first mission OpenShift Platform as a Service environment in the Department of Defense. As a result of his work with PaaS frameworks, Jason has been focusing on the containerization of geospatial services in the interest of lowering the user and developer barriers to entry, see <a href="http://geopaas.io">http://geopaas.io</a> for details. Jason speaks frequently at open source and cryptography meetups, his blog is at <a href="https://blog.jasoncallaway.com">https://blog.jasoncallaway.com</a>.</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Calamito.jpg">
