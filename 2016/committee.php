@@ -41,7 +41,7 @@ require_once '../tpl/top.tpl.php';
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Kunce.jpg">
       <p><strong>Dale Kunce</strong></p>
-      <p>bio goes here</p>
+      <p>Dale Kunce leads the international GIS team at the <a href="http://redcross.org/">American Red Cross</a> where he is responsible for the adoption and creation of open source software such as OpenMapKit, open data standards and OpenStreetMap to supercharge the work of the American Red Cross. Dale is a geospatial engineer and urban planner with more than ten years of experience working directly with communities throughout the world. He and his team support programs and projects for both international disaster response and long-term programs. Kunce’s past work has taken him from community organizing in the California Central Valley and developing analytics for pandemic response in Uganda to helping astronauts capture high-resolution imagery from the International Space Station. He has helped coordinate the Red Cross response efforts for the last couple of years, working closely with HOT. He is a founder of <a href="http://missingmaps.org/">Missing Maps</a> and a frequent contributor OSM under the username <a href="http://www.openstreetmap.org/user/dkunce">dkunce</a>. Dale is a current board member, elected during the June 2015 Special Election.</p>
     </td>
   </tr>
   <tr style="vertical-align: top;">
