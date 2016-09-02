@@ -53,7 +53,7 @@ require_once '../tpl/top.tpl.php';
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Tucker.jpg">
       <p><strong>Christopher Tucker</strong></p>
-      <p>bio goes here</p>
+      <p>Dr. Christopher Tucker manages Yale House Ventures, a portfolio of social ventures and technology companies that span the worlds of energy, geospatial, sensor, cyber-security, open source, and social media technologies, across the domains of defense/intelligence, international affairs, civilian government, commercial industry, NGOs, and academe. He is also the Chairman and CEO of The MapStory Foundation and President of the foreign policy advocacy group, Friends of the Arc. Dr. Tucker was previously Senior VP for the Americas/National Programs at ERDAS and President/CEO of IONIC, a leader in interoperable web-mapping, location based services, imagery management and distributed geoprocessing. He has served on a variety of Boards such as the US Geospatial intelligence Foundation, the Open Geospatial Consortium, Open Plans, OpenGeo, the Secretary of Interior’s National Geospatial Advisory Committee, and the Defense Science Board Intelligence Task Force, the DNI’s Intelligence Community Strategic Studies Group, and serves as an Independent Advisor to the Director of the National Geospatial Intelligence Agency (NGA). Dr. Tucker served on the National Academy of Science’s Committee on NGA’s GEOINT Research Priorities.</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Sheets.jpg">
