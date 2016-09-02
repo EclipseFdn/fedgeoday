@@ -65,7 +65,7 @@ require_once '../tpl/top.tpl.php';
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Pickle.jpg">
       <p><strong>Eddie Pickle</strong></p>
-      <p>bio goes here</p>
+      <p>Eddie Pickle is Managing Director Open Source Programs at RadiantBlue Technologies. Previously he was the founding CEO of Boundless, and led its 2013 spinout from non-profit to private company. A human geographer by training, he has been a leader in both the geodemographics revolution of the 1980’s and 1990’s, and the geospatial web services explosion of the past two decades. He has served as a site location specialist, market segmentation analyst, sales and consulting leader, critical infrastructure visualization expert, and senior executive, and has worked at both leading international software and data companies. Eddie is a founding Steering Committee of the Eclipse Foundation’s LocationTech industry working group. Previous to his service at Boundless, Eddie was one of the founders of geo web services pioneer IONIC Enterprise and served as its Chief Operating Officer until its purchase by ERDAS in 2007.</p>
     </td>
     <td style="vertical-align: top;width: 33%;" >
       <image style="margin: 10px; float: left;" src="../images/committee/Callaway.jpg">
