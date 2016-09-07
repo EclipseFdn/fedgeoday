@@ -21,10 +21,10 @@
   <session>
     <time>9:40</time>
     <room_id>1</room_id>
-    <title>Keynote: TBD</title>
-    <teaser>Ray Bauer (NGA)</teaser>
+    <title>Keynote: Open Source on GitHub - What we have accomplished so far</title>
+    <teaser>Ray Bauer, Innovation Lead (NGA), shares some of NGA's successes and lessons learned</teaser>
     <body><![CDATA[<p>
-description TBD
+NGA has created over 70 repositories on GitHub since April of 2014. Ray will discuss how this effort is aiding unclassified transparency, accelerating the implementation of ideas and helping to change the Geoint collaboration model.
 </p>
       ]]></body>
   </session>
