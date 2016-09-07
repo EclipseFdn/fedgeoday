@@ -5,7 +5,7 @@
     <time>8:30</time>
     <room_id>3</room_id>
     <title>Registration</title>
-    <teaser>Pick up your nametag at the registration desk.</teaser>
+    <teaser>Sign in and grab a coffee.</teaser>
     <body><![CDATA[<p>Pick up your nametag at the registration desk by the Hall of Service.</p> 
       ]]></body>
   </session>
@@ -14,7 +14,7 @@
     <room_id>1</room_id>
     <title>Welcome</title>
     <teaser>Kick off FedGeoDay 2016.</teaser>
-    <body><![CDATA[<p>A brief welcome to FedGeoDay 2016</p> 
+    <body><![CDATA[<p>A brief welcome to FedGeoDay 2016 with various speakers</p> 
       ]]></body>
   </session>
 <!-- ************************ OPENING PLENARY ****************** -->
@@ -33,7 +33,7 @@ NGA has created over 70 repositories on GitHub since April of 2014. Ray will dis
     <time>10:30</time>
     <room_id>3</room_id>
     <title>Break</title>
-    <teaser>Refreshments served outside the hall of service.</teaser>
+    <teaser>Refreshments served.</teaser>
     <body><![CDATA[<p>Refreshments served outside the hall of service</p>
       ]]></body>
   </session>
@@ -95,8 +95,8 @@ In addition to its own disaster response and internal program activities, the Am
     <time>11:45</time>
     <room_id>3</room_id>
     <title>Lunch</title>
-    <teaser>Lunch will be served outside the hall of service.</teaser>
-    <body><![CDATA[<p>Lunch will be served outside the hall of service. menu TBD</p>
+    <teaser>Lunch will be served in the hall of service.</teaser>
+    <body><![CDATA[<p>Lunch will be served outside the hall of service. menu TBA</p>
       ]]></body>
   </session>
 <!-- ************************ LUNCH TIME ****************** -->
@@ -165,7 +165,7 @@ Data processing and visualization is a challenging aspect of modern intelligence
     <time>14:00</time>
     <room_id>3</room_id>
     <title>Break</title>
-    <teaser>Refreshments served outside the hall of service.</teaser>
+    <teaser>Refreshments served.</teaser>
     <body><![CDATA[<p>Refreshments served outside the hall of service</p>
       ]]></body>
   </session>
