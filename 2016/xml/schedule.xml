@@ -4,9 +4,9 @@
   <session>
     <time>8:30</time>
     <room_id>3</room_id>
-    <title>Registration</title>
+    <title>Registration and Networking.</title>
     <teaser>Sign in and grab a coffee.</teaser>
-    <body><![CDATA[<p>Pick up your nametag at the registration desk by the Hall of Service.</p> 
+    <body><![CDATA[<p>Pick up your nametag at the registration desk by the Hall of Service and meet with new and old colleagues.</p> 
       ]]></body>
   </session>
   <session>
@@ -19,7 +19,7 @@
   </session>
 <!-- ************************ OPENING PLENARY ****************** -->
   <session>
-    <time>9:40</time>
+    <time>9:45</time>
     <room_id>1</room_id>
     <title>Keynote: Open Source on GitHub - What we have accomplished so far</title>
     <teaser>Ray Bauer, Innovation Lead (NGA), shares some of NGA's successes and lessons learned</teaser>
@@ -32,9 +32,9 @@ NGA has created over 70 repositories on GitHub since April of 2014. Ray will dis
   <session>
     <time>10:30</time>
     <room_id>3</room_id>
-    <title>Break</title>
+    <title>Short Break</title>
     <teaser>Refreshments served.</teaser>
-    <body><![CDATA[<p>Refreshments served outside the hall of service</p>
+    <body><![CDATA[<p>Refreshments served in the hall of service</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
@@ -96,7 +96,7 @@ In addition to its own disaster response and internal program activities, the Am
     <room_id>3</room_id>
     <title>Lunch</title>
     <teaser>Lunch will be served in the hall of service.</teaser>
-    <body><![CDATA[<p>Lunch will be served outside the hall of service. menu TBA</p>
+    <body><![CDATA[<p>Lunch will be served in the hall of service. menu TBA</p>
       ]]></body>
   </session>
 <!-- ************************ LUNCH TIME ****************** -->
@@ -121,7 +121,7 @@ RadiantBlue Technologies is developing an open-source-software-based system for 
   </session>
 
   <session>
-    <time>13:20</time>
+    <time>13:30</time>
     <room_id>1</room_id>
     <title>DoD and IC Geospatial Standards Compliance</title>
     <teaser>Jeffrey Bell (National Geospatial-Intelligence Agency (NGA))</teaser>
@@ -131,7 +131,7 @@ This session is a short talk covering the National System for Geospatial Intelli
       ]]></body>
   </session>
   <session>
-    <time>13:20</time>
+    <time>13:30</time>
     <room_id>2</room_id>
     <title>Billions and Beyond: Analyzing and Visualizing Massive Datasets</title>
     <teaser>Rich Fecher (Radiant Blue)</teaser>
@@ -141,7 +141,7 @@ Analysts face hard problems on a regular basis, but interacting with complete ge
       ]]></body>
   </session>
   <session>
-    <time>13:40</time>
+    <time>14:00</time>
     <room_id>1</room_id>
     <title>Geospatially Enable Your Hadoop, Accumulo, and Spark Applications with LocationTech Projects</title>
     <teaser>Rob Emanuele (Azavea)</teaser>
@@ -151,7 +151,7 @@ LocationTech is a working group inside of Eclipse Foundation that a set of 4 ope
       ]]></body>
   </session>
   <session>
-    <time>13:40</time>
+    <time>14:00</time>
     <room_id>2</room_id>
     <title>STRIDER - Spatio-temporal Retrieval and Introspection of Data and Embedded Relationships</title>
     <teaser>Ray Dos Santos and Michael Szaszy (US Army Corp of Engineers - Engineer Development and Research Center (ERDC) &amp; RGi)</teaser>
@@ -162,16 +162,16 @@ Data processing and visualization is a challenging aspect of modern intelligence
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>14:00</time>
+    <time>14:30</time>
     <room_id>3</room_id>
-    <title>Break</title>
+    <title>Short Break</title>
     <teaser>Refreshments served.</teaser>
-    <body><![CDATA[<p>Refreshments served outside the hall of service</p>
+    <body><![CDATA[<p>Refreshments served in the hall of service</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
   <session>
-    <time>14:30</time>
+    <time>14:50</time>
     <room_id>1</room_id>
     <title>How many people are there in the world?</title>
     <teaser>Tom Fitzwater (U.S. Census Bureau)</teaser>
@@ -181,7 +181,7 @@ This question may seem straightforward. However, estimating the world’s popula
       ]]></body>
   </session>
   <session>
-    <time>14:30</time>
+    <time>14:50</time>
     <room_id>2</room_id>
     <title>Cesium 3D Tiles: An open specification for streaming massive 3D geospatial scenes</title>
     <teaser>Matthew mato (Cesium)</teaser>
@@ -199,7 +199,7 @@ Recently submitted to the OGC community standard process, 3D Tiles brings techni
     ]]></body>
   </session>
   <session>
-    <time>14:50</time>
+    <time>15:20</time>
     <room_id>1</room_id>
     <title>The USDOT National Address Database Pilot Study and Use of PostGIS</title>
     <teaser>Michael Terner and Steve Lewis (AppGeo and US.  Dept. of Transportation)</teaser>
@@ -209,7 +209,7 @@ The USDOT has been working actively to help foster the creation of a National Ad
       ]]></body>
   </session>
   <session>
-    <time>14:50</time>
+    <time>15:20</time>
     <room_id>2</room_id>
     <title>NASAS WorldWind Spatial Visualization</title>
     <teaser>Zach Glueckert (NASA WorldWind)</teaser>
@@ -219,7 +219,7 @@ In 2002, NASA engineered the first open source virtual globe. Today there are ve
       ]]></body>
   </session>
   <session>
-    <time>15:10</time>
+    <time>15:50</time>
     <room_id>1</room_id>
     <title>Open Source Technologies for Sharing Water Sensor Data</title>
     <teaser>Dwane Young, (U.S. Environmental Protection Agency)</teaser>
@@ -231,7 +231,7 @@ This network uses Open Geospatial Consortium Data Standards for sharing and comm
       ]]></body>
   </session>
   <session>
-    <time>15:10</time>
+    <time>15:50</time>
     <room_id>2</room_id>
     <title>Interactive Visualization of Satellite and Weather Model Data Online Using CesiumJS</title>
     <teaser>Matthew Lammers (NASA Goddard/KBRwyle)</teaser>
@@ -248,7 +248,7 @@ STORM Virtual Globe (STORM VG) takes archival precipitation data from several sa
   </session>
 
   <session>
-    <time>15:30</time>
+    <time>16:20</time>
     <room_id>1</room_id>
     <title>Lightning talks!</title>
     <teaser>Various speakers cover an assortment of topics in 5 minutes or less.</teaser>
@@ -268,7 +268,7 @@ STORM Virtual Globe (STORM VG) takes archival precipitation data from several sa
   </session>
 <!-- ************************ RECEPTION ****************** -->
   <session>
-    <time>17:00</time>
+    <time>18:00</time>
     <room_id>4</room_id>
     <title>Reception</title>
     <teaser>Join us for a reception and opportunity to network.</teaser>
