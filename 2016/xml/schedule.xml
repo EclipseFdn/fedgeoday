@@ -6,7 +6,7 @@
     <room_id>3</room_id>
     <title>Registration and Networking.</title>
     <teaser>Sign in and grab a coffee.</teaser>
-    <body><![CDATA[<p>Pick up your nametag at the registration desk by the Hall of Service and meet with new and old colleagues.</p> 
+    <body><![CDATA[<p>Pick up your nametag at the registration desk and meet with new and old colleagues.</p> 
       ]]></body>
   </session>
   <session>
@@ -34,7 +34,7 @@ NGA has created over 70 repositories on GitHub since April of 2014. Ray will dis
     <room_id>3</room_id>
     <title>Short Break</title>
     <teaser>Refreshments served.</teaser>
-    <body><![CDATA[<p>Refreshments served in the hall of service</p>
+    <body><![CDATA[<p>Coffee, assorted juice, and light fare.</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
@@ -95,8 +95,8 @@ In addition to its own disaster response and internal program activities, the Am
     <time>11:45</time>
     <room_id>3</room_id>
     <title>Lunch</title>
-    <teaser>Lunch will be served in the hall of service.</teaser>
-    <body><![CDATA[<p>Lunch will be served in the hall of service. menu TBA</p>
+    <teaser>A hearty lunch will be served.</teaser>
+    <body><![CDATA[<p>Menu TBA.</p>
       ]]></body>
   </session>
 <!-- ************************ LUNCH TIME ****************** -->
@@ -166,7 +166,7 @@ Data processing and visualization is a challenging aspect of modern intelligence
     <room_id>3</room_id>
     <title>Short Break</title>
     <teaser>Refreshments served.</teaser>
-    <body><![CDATA[<p>Refreshments served in the hall of service</p>
+    <body><![CDATA[<p>Coffee, assorted juice, and light fare.</p>
       ]]></body>
   </session>
 <!-- ************************ BREAK TIME ****************** -->
