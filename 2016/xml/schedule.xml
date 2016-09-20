@@ -184,7 +184,7 @@ This question may seem straightforward. However, estimating the world’s popula
     <time>14:50</time>
     <room_id>2</room_id>
     <title>Cesium 3D Tiles: An open specification for streaming massive 3D geospatial scenes</title>
-    <teaser>Matthew mato (Cesium)</teaser>
+    <teaser>Matthew Amato (Cesium)</teaser>
     <body><![CDATA[<p>
 3D Tiles is an open specification optimized for streaming and rendering massive heterogeneous geospatial datasets in 3D, including buildings, trees, point clouds, vector data, and terrain. 3D Tiles is being used in city governments, commercial apps, and being actively explored by federal governments around the world.
 
