@@ -269,7 +269,7 @@ STORM Virtual Globe (STORM VG) takes archival precipitation data from several sa
 <!-- ************************ RECEPTION ****************** -->
   <session>
     <time>18:00</time>
-    <room_id>4</room_id>
+    <room_id>2</room_id>
     <title>Reception</title>
     <teaser>Join us for a reception and opportunity to network.</teaser>
     <body><![CDATA[<p>Join us for a reception and opportunity to network after the conference.</p>
