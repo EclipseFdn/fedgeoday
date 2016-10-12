@@ -26,9 +26,7 @@ require_once '../tpl/top.tpl.php';
 <img src="http://fedgeoday.org/images/sponsors/redcross.png" alt="Red Cross"/>
 
 <p>
-<br>Red Cross</br>
-<br>1730 E Street NW,</br>
-<br>Washington, DC 20006</br>
+Red Cross, 1730 E Street NW, Washington, DC 20006
 </p>
 
 <p>Our thanks to the generous support from the Red Cross to host us this year!</p>
