@@ -16,6 +16,7 @@ if (!defined('ABSPATH')) exit;
   <!--<li><a href="./cfp.php">Call For Proposals</a></li>-->
   <li><a href="./index.php#registration">Register</a></li>
   <li><a href="./committee.php">Our Committee</a></li>
+  <li><a href="./venue.php">Venue</a></li>
   <li><a href="./terms.php">Terms</a></li>
   <li><a href="./conduct.php">Code of Conduct</a></li>
   <li><a href="./index.php#schedule">Schedule</a></li>
