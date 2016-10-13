@@ -112,7 +112,7 @@ As open-source technology trends continue to emerge in modern IT enterprises, th
     <session>
     <time>13:00</time>
     <room_id>2</room_id>
-    <title>Creating an Open, Global Shoreline Service</title>
+    <title>GEOINT Services and NGA's investment in Open Source for the Intelligence Community</title>
     <teaser>Carter Christopher (NGA)</teaser>
     <body><![CDATA[<p>
 RadiantBlue Technologies is developing an open-source-software-based system for generating an automated, global coastline service. The system incorporates data from multiple commercial satellite imagery sources, and runs feature detection algorithms to produce new coastline GIS/vector data as the imagery is collected.  The system will serve Geospatial Analysts, Intelligence Analysts, and Feature Data Managers as a resource for utilizing detection algorithms to delineate feature data from unclassified imagery.  The system provides new and exciting opportunities in the areas of maritime navigation, sovereign borders awareness, and disaster relief/assessment in coastal and port areas of the world.
