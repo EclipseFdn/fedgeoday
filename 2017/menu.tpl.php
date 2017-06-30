@@ -13,8 +13,8 @@ if (!defined('ABSPATH')) exit;
 ?>
 
 <ul class="nav navbar-nav navbar-right">
-  <!--<li><a href="/2016/cfp.php">Call For Proposals</a></li>-->
-  <li><a href="/2016/index.php#registration">Register</a></li>
-  <li><a href="/2016/index.php#schedule">Schedule</a></li>
-  <li><a href="/2016/index.php#sponsorship">Sponsorship</a></li>
+  <!--<li><a href="/2017/cfp.php">Call For Proposals</a></li>-->
+  <li><a href="/2017/index.php#registration">Register</a></li>
+  <li><a href="/2017/index.php#schedule">Schedule</a></li>
+  <li><a href="/2017/index.php#sponsorship">Sponsorship</a></li>
 </ul>
