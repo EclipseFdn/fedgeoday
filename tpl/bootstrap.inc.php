@@ -25,6 +25,12 @@ function _loadxml($path = NULL) {
  * Load configurations.
  */
 $config = json_decode(json_encode(_loadxml('xml/event.xml')), TRUE);
+// Fix empty values
+foreach ($config as &$c) {
+  if (is_array($c)) {
+    $c = "";
+  }
+}
 
 /**
  * Load sponsors.
@@ -92,10 +98,3 @@ foreach ($xml_schedule as $session) {
     'room_data' => $room_data
   );
 }
-
-/**
- * Load template files.
- */
-require_once '../tpl/head.tpl.php';
-require_once '../tpl/body.tpl.php';
-require_once '../tpl/footer.tpl.php';

@@ -13,9 +13,10 @@
 /**
  * Define ABSPATH as this files directory
  */
-define('ABSPATH', dirname(__FILE__) . '/2016/');
+define('ABSPATH', dirname(__FILE__) . '/2017/');
 
 require_once '../tpl/bootstrap.inc.php';
+
 /**
  * Load template files.
  */

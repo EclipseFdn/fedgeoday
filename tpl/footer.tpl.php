@@ -41,7 +41,9 @@ if (!defined('ABSPATH')) exit;
           <div id="footer-info">
             <?php print $config['address'];?>
           </div>
-          <p><a target="_blank" href="<?php print $config['registration_link']?>" class="btn btn-primary">Register Now</a></p>
+          <?php if (!empty($config['registration_link'])) :?>
+            <p><a target="_blank" href="<?php print $config['registration_link']?>" class="btn btn-primary">Register Now</a></p>
+          <?php endif;?>
         </div>
       </div>
     </div>
@@ -49,7 +51,7 @@ if (!defined('ABSPATH')) exit;
 </footer>
 
 <script src="../js/main.js"></script>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 <!-- Google Analytics -->
 <script>

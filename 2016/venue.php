@@ -10,26 +10,30 @@
  *    Andrea Ross(Eclipse Foundation) - Initial implementation
  *******************************************************************************/
 
-/** 
- * Define ABSPATH as this files directory 
+/**
+ * Define ABSPATH as this files directory
  */
 define('ABSPATH', dirname(__FILE__) . '/2016/');
+require_once '../tpl/bootstrap.inc.php';
 
 require_once '../tpl/head.tpl.php';
 require_once '../tpl/top.tpl.php';
 ?>
 
+<div class="container">
+  <div class="col-md-24">
+    <h1>Venue</h1>
 
-<h1>Venue</h1>
+    <p>FedGeoDay 2016 takes place at the:</p>
+    <img src="http://fedgeoday.org/images/sponsors/redcross.png" alt="Red Cross"/>
 
-<p>FedGeoDay 2016 takes place at the:</p>
-<img src="http://fedgeoday.org/images/sponsors/redcross.png" alt="Red Cross"/>
+    <p>
+    Red Cross, 1730 E Street NW, Washington, DC 20006
+    </p>
 
-<p>
-Red Cross, 1730 E Street NW, Washington, DC 20006
-</p>
-
-<p>Our thanks to the generous support from the Red Cross to host us this year!</p>
+    <p>Our thanks to the generous support from the Red Cross to host us this year!</p>
+  </div>
+</div>
 
 <?
 require_once '../tpl/footer.tpl.php';

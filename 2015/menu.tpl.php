@@ -1,6 +1,6 @@
 <?php
 /*******************************************************************************
- * Copyright (c) 2016 Eclipse Foundation and others.
+ * Copyright (c) 2015 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
@@ -9,16 +9,13 @@
  * Contributors:
  *    Christopher Guindon (Eclipse Foundation) - Initial implementation
  *******************************************************************************/
+if (!defined('ABSPATH')) exit;
+?>
 
-/**
- * Define ABSPATH as this files directory
- */
-define('ABSPATH', dirname(__FILE__) . '/2016/');
-
-require_once '../tpl/bootstrap.inc.php';
-/**
- * Load template files.
- */
-require_once '../tpl/head.tpl.php';
-require_once '../tpl/body.tpl.php';
-require_once '../tpl/footer.tpl.php';
+<ul class="nav navbar-nav navbar-right">
+  <li><a href="/2015/index.php#registration">Register</a></li>
+  <li><a href="/2015/terms.php">Terms</a></li>
+  <li><a href="/2015/conduct.php">Code of Conduct</a></li>
+  <li><a href="/2015/index.php#schedule">Schedule</a></li>
+  <li><a href="/2015/index.php#sponsorship">Sponsorship</a></li>
+</ul>

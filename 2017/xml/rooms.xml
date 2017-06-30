@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+  <room>
+    <room_id>1</room_id>
+    <title>Hall of Service</title>
+    <color>#d1a42b</color>
+  </room>
+  <room>
+    <room_id>2</room_id>
+    <title>Board of Governors</title>
+    <color>#415976</color>
+  </room>
+  <room>
+    <room_id>3</room_id>
+    <title>E Street Building Lounge</title>
+    <color>#415976</color>
+  </room>
+  <room>
+    <room_id>4</room_id>
+    <title>Reception location TBA soon</title>
+    <color>#415976</color>
+  </room>
+</rooms>

@@ -27,7 +27,7 @@ if (!defined('ABSPATH')) exit;
         </a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
-        <?php include 'menu.tpl.php';?>  
+        <?php include 'menu.tpl.php';?>
       </div><!--/.navbar-collapse -->
     </div>
   </nav>
@@ -64,7 +64,9 @@ if (!defined('ABSPATH')) exit;
             <h2 class="heading bg-primary">Registration</h2>
             <div class="content">
               <?php print $config['registration_teaser'];?>
-              <p><a href="<?php print $config['registration_link']?>" class="btn btn-secondary" target="_blank">Register Now</a></p>
+              <?php if (!empty($config['registration_link'])) :?>
+                <p><a href="<?php print $config['registration_link']?>" class="btn btn-secondary" target="_blank">Register Now</a></p>
+              <?php endif;?>
             </div>
           </div>
         </div>
@@ -103,7 +105,7 @@ if (!defined('ABSPATH')) exit;
               </article>
               <?php $lastime = $session['time']; ?>
             <?php endforeach;?>
-           
+
           </div>
           <p class="text-center">
             <a href="#" id="btn-schedule-toggle"><span>View More</span>
@@ -147,7 +149,7 @@ if (!defined('ABSPATH')) exit;
     </div>
   </div>
 </div>
-    
+
 <div id="sponsors" class="clearfix section">
   <div id="sponsors-bg">
     <div class="container">

@@ -7,18 +7,23 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *
  * Contributors:
- *    Christopher Guindon (Eclipse Foundation) - Initial implementation
+ *    Andrea Ross(Eclipse Foundation) - Initial implementation
  *******************************************************************************/
 
 /**
  * Define ABSPATH as this files directory
  */
-define('ABSPATH', dirname(__FILE__) . '/2016/');
-
+define('ABSPATH', dirname(__FILE__) . '/2017/');
 require_once '../tpl/bootstrap.inc.php';
-/**
- * Load template files.
- */
 require_once '../tpl/head.tpl.php';
-require_once '../tpl/body.tpl.php';
+require_once '../tpl/top.tpl.php';
+?>
+
+<div class="container">
+  <div class="col-md-24">
+  <h1>Our Committee</h1>
+  <p>The conference would not happen without the efforts of our wonderful team. Please help us thank them!</p>
+  </div>
+</div>
+<?php
 require_once '../tpl/footer.tpl.php';

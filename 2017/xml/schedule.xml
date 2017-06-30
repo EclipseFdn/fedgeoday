@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+<!-- ************************ OPENING PLENARY ****************** -->
+  <session>
+    <time>8:30</time>
+    <room_id>3</room_id>
+    <title>Registration and Networking.</title>
+    <teaser>Sign in and grab a coffee.</teaser>
+    <body><![CDATA[<p>Pick up your nametag at the registration desk and meet with new and old colleagues.</p> 
+      ]]></body>
+  </session>
+  <session>
+    <time>9:30</time>
+    <room_id>1</room_id>
+    <title>Welcome</title>
+    <teaser>Kick off FedGeoDay 2016.</teaser>
+    <body><![CDATA[<p>A brief welcome to FedGeoDay 2016 with various speakers</p> 
+      ]]></body>
+  </session>
+<!-- ************************ OPENING PLENARY ****************** -->
+  <session>
+    <time>9:45</time>
+    <room_id>1</room_id>
+    <title>Keynote: Open Source on GitHub - What we have accomplished so far</title>
+    <teaser>Ray Bauer, Innovation Lead (NGA), shares some of NGA's successes and lessons learned</teaser>
+    <body><![CDATA[<p>
+NGA has created over 70 repositories on GitHub since April of 2014. Ray will discuss how this effort is aiding unclassified transparency, accelerating the implementation of ideas and helping to change the Geoint collaboration model.
+</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>10:30</time>
+    <room_id>3</room_id>
+    <title>Short Break</title>
+    <teaser>Refreshments served.</teaser>
+    <body><![CDATA[<p>Coffee, assorted juice, and light fare.</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>10:45</time>
+    <room_id>1</room_id>
+    <title>Open Publishing: How the FCC Empowered Map Publishing with Open Source Technologies and Standards</title>
+    <teaser>Allison Baker &amp; Brian Funk (Federal Communications Commission &amp; NCI, Inc.)</teaser>
+    <body><![CDATA[<p>
+Allison Baker, product owner for this effort, drove the redesign of FCC Maps with an emphasis on rapid publication. Brian Funk designed the architecture for FCC Maps and led the development team. Together, we will present an overview of the FCC’s new map publishing platform empowering users by integrating open source technologies (Drupal, GeoServer, Node.js) with open standards (OGC).
+:w
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>10:45</time>
+    <room_id>2</room_id>
+    <title>Understanding Open Source</title>
+    <teaser>Jody Garnett (Boundless) explains how government can benefit from participation in open source.</teaser>
+    <body><![CDATA[<p> 
+      Open source is gleefully rewriting the rules of IT development at all levels of industry and government. Adoption of open source in government is well underway, with success stories  illustrating the benefits. This decade we are going further - fostering a healthy, sustainable, working relationship between government and open source:
+* This presentation digs into the flexibility of open source licensing and how government organizations can meet the challenges of developing with open source. 
+* We will look at the advantages of government participation in open source at the project, institutional, and foundation level. 
+Attend this talk to understand how your organization cannot only benefit from open source, but be open source.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>11:15</time>
+    <room_id>1</room_id>
+    <title>Geography for HIV Epidemic Control: PEPFAR’s use of open source geospatial tools</title>
+    <teaser>Nate Heard &amp; Gina Sarfaty (The U.S. President's Emergency Plan for AIDS Relief (PEPFAR))</teaser>
+    <body><![CDATA[<p>
+The U.S. President's Emergency Plan for AIDS Relief (PEPFAR) is the U.S. Government initiative to help save the lives of those affected by HIV/AIDS around the world. PEPFAR has a data-driven focus that strategically aligns community and clinical services with targeted geographic areas to achieve a greater impact on the epidemic. Understanding spatial variation of HIV-affected populations and where PEPFAR supports service delivery is key to geographic prioritization.
+ 
+PEPFAR manages multiple data streams, including epidemiology, demography, program indicator and budget data. The spatial data infrastructure that enables analysts to map these data spans all 36 PEPFAR country and regional programs and includes geographic coordinates for most clinical sites. PEPFAR leverages this system for improved spatial targeting of HIV treatment and prevention services. As a result of the adoption of a geographically-informed, data-driven approach PEPFAR has set a target to support a total of 12.9 million people on life-saving anti-retroviral treatment by the end of 2017.
+ 
+This talk provides an overview of PEPFAR’s use of open source tools such as QGIS, GeoNode, and DATIM, an open source, web-based health information system that includes GIS. We’ll describe successes and challenges in our work to leverage geography for global HIV epidemic control.​
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>11:15</time>
+    <room_id>2</room_id>
+    <title>Institutional engagement in an open mapping community</title>
+    <teaser>Dan Joseph (American Red Cross)</teaser>
+    <body><![CDATA[<p>
+The American Red Cross, as a founding member of the Missing Maps initiative, is actively working to map 200 million of the world’s vulnerable people into OpenStreetMap (OSM) by 2021; creating open map data for anyone to access, use, and update. This past year, the activities included our biggest field effort to date: launching a mapping hub in West Africa and training local volunteers to field map over 5,000 villages in the border regions of Liberia, Guinea, and Sierra Leone.
+
+The remote areas in which Red Cross works are full of technical challenges: no connectivity, extremely poor roads, lack of electricity, dispersed volunteers, etc. A combination of high- and low-tech tools facilitate field mapping. Our preferred tool is an Android app. However, when conditions necessitate alternative methods we can deploy handheld GPS devices and paper-based mapping tools. Also, the American Red Cross has developed POSM, an offline server that facilitates field mapping in areas without an internet connection for upwards of a month.
+
+In addition to its own disaster response and internal program activities, the American Red Cross collaborates with US government entities such as MapGive and HIU, as well as the CDC. This talk will explore the how and why of American Red Cross’ commitment to open data, open source tools, and community engagement to map vulnerable communities around the world.
+</p>
+      ]]></body>
+  </session>
+<!-- ************************ LUNCH TIME ****************** -->
+  <session>
+    <time>11:45</time>
+    <room_id>3</room_id>
+    <title>Lunch</title>
+    <teaser>A hearty lunch will be served.</teaser>
+    <body><![CDATA[<p>Menu TBA.</p>
+      ]]></body>
+  </session>
+<!-- ************************ LUNCH TIME ****************** -->
+  <session>
+    <time>13:00</time>
+    <room_id>1</room_id>
+    <title>Thinking Open – A Hybrid Approach to GIS</title>
+    <teaser>Anthony Calamito (Boundless)</teaser>
+    <body><![CDATA[<p>
+As open-source technology trends continue to emerge in modern IT enterprises, there has been significant interest from the geospatial community in implementing open-source GIS technologies.  There are a multitude of reasons why organizations consider open-source, and in this discussion, Boundless will share best practices around a hybrid approach to integrating and implementing open-source geospatial technologies, alongside existing proprietary technologies and tools.   And rather than rip-and-replace your existing software for open source, this talk will describe how to gradually migrate portions of your enterprise at a time.</p>
+      ]]></body>
+  </session>
+    <session>
+    <time>13:00</time>
+    <room_id>2</room_id>
+    <title>GEOINT Services and NGA's investment in Open Source for the Intelligence Community</title>
+    <teaser>Carter Christopher (NGA)</teaser>
+    <body><![CDATA[<p>
+RadiantBlue Technologies is developing an open-source-software-based system for generating an automated, global coastline service. The system incorporates data from multiple commercial satellite imagery sources, and runs feature detection algorithms to produce new coastline GIS/vector data as the imagery is collected.  The system will serve Geospatial Analysts, Intelligence Analysts, and Feature Data Managers as a resource for utilizing detection algorithms to delineate feature data from unclassified imagery.  The system provides new and exciting opportunities in the areas of maritime navigation, sovereign borders awareness, and disaster relief/assessment in coastal and port areas of the world.
+</p>
+      ]]></body>
+  </session>
+
+  <session>
+    <time>13:30</time>
+    <room_id>1</room_id>
+    <title>DoD and IC Geospatial Standards Compliance</title>
+    <teaser>Jeffrey Bell (National Geospatial-Intelligence Agency (NGA))</teaser>
+    <body><![CDATA[ <p>
+This session is a short talk covering the National System for Geospatial Intelligence (NSG) GEOINT Functional Manager Standards Assessment (GFMSA) Program.  The program, established by the National Geospatial-Intelligence Agency (NGA) as the Functional Manager for GEOINT Standards in the IC and DoD, provisions a GEOINT Standards compliance process that advances GEOINT interoperability, understand and sharing across the NSG in the area of data, services, sensors, and imagery.  The talk will cover the process as well as benefits and use cases for standards compliance and non-compliance.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>13:30</time>
+    <room_id>2</room_id>
+    <title>Billions and Beyond: Analyzing and Visualizing Massive Datasets</title>
+    <teaser>Rich Fecher (RadiantBlue)</teaser>
+    <body><![CDATA[<p>
+Analysts face hard problems on a regular basis, but interacting with complete geospatial collections at scale is a technological challenge that recent innovations have proven to overcome.  This presentation will demonstrate the use of GeoWave to interact with a massive spatio-temporal data set -- 7 years of NYC taxi trips -- quickly capturing trends that are likely applicable to today and tomorrow’s traffic patterns.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:00</time>
+    <room_id>1</room_id>
+    <title>Geospatially Enable Your Hadoop, Accumulo, and Spark Applications with LocationTech Projects</title>
+    <teaser>Rob Emanuele (Azavea)</teaser>
+    <body><![CDATA[ <p>
+LocationTech is a working group inside of Eclipse Foundation that a set of 4 open source projects dealing with large geospatial datasets call home: GeoTrellis, GeoWave, GeoMesa, and GeoJinni (sense a pattern?).
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:00</time>
+    <room_id>2</room_id>
+    <title>STRIDER - Spatio-temporal Retrieval and Introspection of Data and Embedded Relationships</title>
+    <teaser>Ray Dos Santos and Michael Szaszy (US Army Corp of Engineers - Engineer Development and Research Center (ERDC) &amp; RGi)</teaser>
+    <body><![CDATA[ <p>
+Data processing and visualization is a challenging aspect of modern intelligence systems.  As data volumes grow, the system must not only maintain a visual appeal, but also implement high selectivity, i.e., display only the least amount of the most relevant information. In this manner, the end user can focus on the task at hand rather than on the sifting of unimportant data. In this presentation, we discuss STRIDER, a system that performs document reasoning helpful on various domains. STRIDER features location-enabled text parsing, machine learning techniques, and storylines. Internally, STRIDER performs data ingestion on both structured and unstructured data sources, making it available for many purposes: plotting documents on a map, building associations among spatial entities, and displaying numerical analysis such as event correlation. In the visual interface, STRIDER uses a variety of multiple coordinated views, including maps, networks, and charts, to support data exploration and hypothesis testing workflows. In this presentation, we show how the analysis of complex data can be substantially enhanced through automation and mapping, and how it facilitates inferences on the underlying data points.
+</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>14:30</time>
+    <room_id>3</room_id>
+    <title>Short Break</title>
+    <teaser>Refreshments served.</teaser>
+    <body><![CDATA[<p>Coffee, assorted juice, and light fare.</p>
+      ]]></body>
+  </session>
+<!-- ************************ BREAK TIME ****************** -->
+  <session>
+    <time>14:50</time>
+    <room_id>1</room_id>
+    <title>How many people are there in the world?</title>
+    <teaser>Tom Fitzwater (U.S. Census Bureau)</teaser>
+    <body><![CDATA[<p>
+This question may seem straightforward. However, estimating the world’s population means reconciling many data sources (including geospatial) and developing methods to model the characteristics of hundreds of diverse societies. More challenges arise when estimating population for a specific location, such as a province, city, or neighborhood. Only a few organizations—including the Census Bureau—are attempting to find these answers.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>14:50</time>
+    <room_id>2</room_id>
+    <title>Cesium 3D Tiles: An open specification for streaming massive 3D geospatial scenes</title>
+    <teaser>Matthew Amato (Cesium)</teaser>
+    <body><![CDATA[<p>
+3D Tiles is an open specification optimized for streaming and rendering massive heterogeneous geospatial datasets in 3D, including buildings, trees, point clouds, vector data, and terrain. 3D Tiles is being used in city governments, commercial apps, and being actively explored by federal governments around the world.
+
+This talk will discuss:
+
+* Why traditional 2D specifications don't translate well to 3D.
+* How 3D Tiles provides flexibility and performance for diverse 3D use cases and how data-driven styling enables visualization of millions of 3D features without loss of information or interactivity.
+* The state of the 3D Tiles ecosystem, including the open-source Cesium implementation, live demos, and how 3D Tiles is being used throughout a variety of industries.
+
+Recently submitted to the OGC community standard process, 3D Tiles brings techniques from graphics research, the movie industry, and the game industry to world-scale geospatial. Come learn how 3D Tiles is helping revolutionize streaming of massive heterogeneous geospatial datasets through open development and open specifications.
+</p>
+    ]]></body>
+  </session>
+  <session>
+    <time>15:20</time>
+    <room_id>1</room_id>
+    <title>The USDOT National Address Database Pilot Study and Use of PostGIS</title>
+    <teaser>Michael Terner and Steve Lewis (AppGeo and US.  Dept. of Transportation)</teaser>
+    <body><![CDATA[<p>
+The USDOT has been working actively to help foster the creation of a National Address Database (NAD) and recently completed a pilot project that examined key issues and tested the technical and organizational approaches that would be required for a full national effort. This presentation will provide an overview of the findings of the study and include a description of the project's use of PostGIS for housing the pilot database which contains several million address records from a variety of state and county sources. The creation of an NAD fundamentally involves the aggregation of many data sets that originate from address authorities at local levels of government and from tribal authorities and thus data sharing agreements and open data considerations will also be discussed.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>15:20</time>
+    <room_id>2</room_id>
+    <title>NASAS WorldWind Spatial Visualization</title>
+    <teaser>Zach Glueckert (NASA WorldWind)</teaser>
+    <body><![CDATA[<p>
+In 2002, NASA engineered the first open source virtual globe. Today there are versions in Java, Android and JavaScript. Measured by both U.S. Gov't use, the international community and industry, WorldWind is the most successful technology ever engineered by NASA, effectively spurring innovation with spatial data. We will describe how the U.S. Gov't community and others are currently using WorldWind to manage their operations. 
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>15:50</time>
+    <room_id>1</room_id>
+    <title>Open Source Technologies for Sharing Water Sensor Data</title>
+    <teaser>Dwane Young, (U.S. Environmental Protection Agency)</teaser>
+    <body><![CDATA[<p>
+Sensors are getting more advanced and accurate, with increasing capability to measure new parameters.  At the same time, efforts are under way to make some of these new sensors more accessible by reducing the cost.  This combination puts us on the precipice of a proliferation of water sensors.  This then raises the question:  What do we do with all that data?
+This presentation will outline the vision for how we can develop a national data sharing network for sensor data.  This network would be integrated across federal, state, tribal, local, and academic data owners.  The network would promote the use of common standards for data sharing, provide mechanisms for registering new sensors, define sensor metadata requirements, be integrated with sample data in the Water Quality Portal, and be integrated with the stream network (National Hydrography Dataset) to allow discovery and navigation of the data via the stream network.
+This network uses Open Geospatial Consortium Data Standards for sharing and communicating the data and is using open source technology for displaying and managing the data.
+</p>
+      ]]></body>
+  </session>
+  <session>
+    <time>15:50</time>
+    <room_id>2</room_id>
+    <title>Interactive Visualization of Satellite and Weather Model Data Online Using CesiumJS</title>
+    <teaser>Matthew Lammers (NASA Goddard/KBRwyle)</teaser>
+    <body><![CDATA[<p>
+Geospatial data, and satellite/weather model data specifically, benefit from being visualized on and above a three-dimensional surface. The open-source framework CesiumJS serves as a capable and well-maintained platform upon which these types of information can effectively be displayed.
+
+This presentation will describe the technology behind three products developed as part of the NASA Precipitation Processing System (PPS) STORM website. The first is an interactive demo that uses NOAA Hurricane WRF weather model data to visualize how Super Typhoon Nepartak was expected to interact with the island of Taiwan. Using three-dimensional reflectivity information, the full structure of the tropical cyclone is visible, with the ability to look at regions of higher intensity and to step through time in three-hour intervals.
+
+The two NASA PPS STORM products take data from the Global Precipitation Mission (GPM) satellite, among others, and display them in compelling interactive ways. GPM Near Real Time Viewer (GPMNRTView) enables the display of numerous variables retrieved from both primary instruments on the satellite as soon as the data are available. Brightness temperature, precipitation rate, and precipitation type are among the parameters that can be animated across the satellite's path within 30 minutes of overflight.
+
+STORM Virtual Globe (STORM VG) takes archival precipitation data from several satellites and makes it available on a three-dimensional globe. Using the STORM data order interface, users can opt to display information from a single orbit or aggregated over an entire day. All of the data points can be moused-over for information about the raw values.
+</p>
+      ]]></body>
+  </session>
+
+  <session>
+    <time>16:20</time>
+    <room_id>1</room_id>
+    <title>Lightning talks!</title>
+    <teaser>Various speakers cover an assortment of topics in 5 minutes or less. Expand this item to see the list of speakers and their talks.</teaser>
+    <body><![CDATA[<p>
+<p>Speakers:</p>
+<ul>
+  <li>Daniel J. Dufour, First Draft GIS - Accelerating Map Making with Artificial Intelligence</li>
+  <li>Mike Botts, Botts Innovative Research / OpenSensorHub - OpenSensorHub: Open source integration of sensors, actuators, and processes</li>
+  <li>Annie Mejaes, U.S. Environmental Protection Agency - An Automated, Open-Source Approach for Georeferencing Water Data</li>
+  <li>Howard Butler, Hobu, Inc. - Point Cloud Web Services with Greyhound and Entwine</li>
+  <li>Ryan Smith, DigitalGlobe - Leveraging Data Science Notebooks to Run Global Scale Terrain Analytics</li>
+  <li>Joshua S Campbell, Sand Hill Geographic - EventKit: A new toolkit for geospatial data provisioning and deployment</li>
+  <li>Katie Baynes, NASA Earth Science Data and Information System - Using NASA's Satellite Imagery for Science and Profit</li>
+  <li>Christopher Tucker, MapStory - Empowering collaboration through versioned editing on change over time</li>
+</ul>
+      ]]></body>
+  </session>
+<!-- ************************ RECEPTION ****************** -->
+  <session>
+    <time>18:00</time>
+    <room_id>2</room_id>
+    <title>Reception</title>
+    <teaser>Join us for a reception and opportunity to network.</teaser>
+    <body><![CDATA[<p>Join us for a reception and opportunity to network after the conference.</p>
+      ]]></body>
+  </session>
+<!-- ************************ RECEPTION ****************** -->
+
+</schedule>

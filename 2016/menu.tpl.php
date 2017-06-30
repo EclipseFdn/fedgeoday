@@ -13,12 +13,12 @@ if (!defined('ABSPATH')) exit;
 ?>
 
 <ul class="nav navbar-nav navbar-right">
-  <!--<li><a href="./cfp.php">Call For Proposals</a></li>-->
-  <li><a href="./index.php#registration">Register</a></li>
-  <li><a href="./committee.php">Our Committee</a></li>
-  <li><a href="./venue.php">Venue</a></li>
-  <li><a href="./terms.php">Terms</a></li>
-  <li><a href="./conduct.php">Code of Conduct</a></li>
-  <li><a href="./index.php#schedule">Schedule</a></li>
-  <li><a href="./index.php#sponsorship">Sponsorship</a></li>
+  <!--<li><a href="/2016/cfp.php">Call For Proposals</a></li>-->
+  <li><a href="/2016/index.php#registration">Register</a></li>
+  <li><a href="/2016/committee.php">Our Committee</a></li>
+  <li><a href="/2016/venue.php">Venue</a></li>
+  <li><a href="/2016/terms.php">Terms</a></li>
+  <li><a href="/2016/conduct.php">Code of Conduct</a></li>
+  <li><a href="/2016/index.php#schedule">Schedule</a></li>
+  <li><a href="/2016/index.php#sponsorship">Sponsorship</a></li>
 </ul>
