@@ -211,7 +211,7 @@ The USDOT has been working actively to help foster the creation of a National Ad
   <session>
     <time>15:20</time>
     <room_id>2</room_id>
-    <title>NASAS WorldWind Spatial Visualization</title>
+    <title>NASA WorldWind Spatial Visualization</title>
     <teaser>Zach Glueckert (NASA WorldWind)</teaser>
     <body><![CDATA[<p>
 In 2002, NASA engineered the first open source virtual globe. Today there are versions in Java, Android and JavaScript. Measured by both U.S. Gov't use, the international community and industry, WorldWind is the most successful technology ever engineered by NASA, effectively spurring innovation with spatial data. We will describe how the U.S. Gov't community and others are currently using WorldWind to manage their operations. 
